@@ -250,7 +250,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 ## 🗂️ My projects - Portfolio
 
-### Proyecto Personal — e100_p100  
+### Proyecto Personal — Personal Portfolio  
 <sub>may. 2026 - actualidad</sub>
 
 <details>
@@ -274,7 +274,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
-### Grupo de Empresas Tecnológicas — e011_p006  
+### Grupo de Empresas Tecnológicas — Calibration Management  
 <sub>abr. 2022 - actualidad</sub>
 
 <details>
@@ -467,7 +467,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
-### Grupo de Empresas Tecnológicas — e011_p005  
+### Grupo de Empresas Tecnológicas — Mobile Inspection App  
 <sub>sept. 2020 - mar. 2022</sub>
 
 <details>
@@ -565,7 +565,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
-### Unisys — e010_p004  
+### Unisys — Drone Pilot Certification  
 <sub>jun. 2019 - ago. 2020</sub>
 
 <details>
@@ -644,7 +644,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
-### IO Digital X — e009_p003  
+### IO Digital X — Energy Billing & Commissions  
 <sub>sept. 2018 - jun. 2019</sub>
 
 <details>
@@ -704,7 +704,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
-### INECO — e008_p002  
+### INECO — Photovoltaic Land Management  
 <sub>feb. 2018 - sept. 2018</sub>
 
 <details>
@@ -764,7 +764,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
-### GRUPO J2INGENIEROS — e007_p001  
+### GRUPO J2INGENIEROS — Energy Monitoring  
 <sub>mar. 2012 - ene. 2018</sub>
 
 <details>
@@ -1374,7 +1374,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 ## 🗂️ Mis proyectos - Portfolio
 
-### Proyecto Personal — e100_p100  
+### Proyecto Personal — Portfolio Personal  
 <sub>may. 2026 - actualidad</sub>
 
 <details>
@@ -1398,7 +1398,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
-### Grupo de Empresas Tecnológicas — e011_p006  
+### Grupo de Empresas Tecnológicas — Gestión de Calibraciones  
 <sub>abr. 2022 - actualidad</sub>
 
 <details>
@@ -1591,7 +1591,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
-### Grupo de Empresas Tecnológicas — e011_p005  
+### Grupo de Empresas Tecnológicas — Aplicación Mobile de Inspección  
 <sub>sept. 2020 - mar. 2022</sub>
 
 <details>
@@ -1689,7 +1689,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
-### Unisys — e010_p004  
+### Unisys — Certificación de Pilotos de Dron  
 <sub>jun. 2019 - ago. 2020</sub>
 
 <details>
@@ -1768,7 +1768,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
-### IO Digital X — e009_p003  
+### IO Digital X — Facturación y Comisiones Energéticas  
 <sub>sept. 2018 - jun. 2019</sub>
 
 <details>
@@ -1828,7 +1828,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
-### INECO — e008_p002  
+### INECO — Gestión de Suelos Fotovoltaicos  
 <sub>feb. 2018 - sept. 2018</sub>
 
 <details>
@@ -1888,7 +1888,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
-### GRUPO J2INGENIEROS — e007_p001  
+### GRUPO J2INGENIEROS — Monitorización Energética  
 <sub>mar. 2012 - ene. 2018</sub>
 
 <details>
