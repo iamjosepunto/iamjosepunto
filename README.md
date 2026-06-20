@@ -306,11 +306,11 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 ---
 
-### Proyecto Personal — Personal Portfolio  
-<sub>may. 2026 - actualidad</sub>
+### E100 - P100 - Personal Portfolio  
+<sub>may. 2026 - actualidad · Proyecto Personal</sub>
 
 <details>
-<summary><b>Personal Portfolio</b> · <i>Still in development</i></summary>
+<summary><b>E100 - P100 - T001</b> · Personal Portfolio · <i>Still in development</i></summary>
 
 <sub>may. 2026 - actualidad · Associated with Proyecto Personal</sub>
 
@@ -332,11 +332,11 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
-### Grupo de Empresas Tecnológicas — Calibration Management  
-<sub>abr. 2022 - actualidad</sub>
+### E011 - P006 - Calibration Management  
+<sub>abr. 2022 - actualidad · Grupo de Empresas Tecnológicas</sub>
 
 <details>
-<summary><b>AI-Based Internal Technical Assistant</b> · <i>Still in development</i></summary>
+<summary><b>E011 - P006 - T010</b> · AI-Based Internal Technical Assistant · <i>Still in development</i></summary>
 
 <sub>mar. 2026 - actualidad · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -357,7 +357,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Automatic Technical Documentation Generation</b> · <i>4 months</i></summary>
+<summary><b>E011 - P006 - T009</b> · Automatic Technical Documentation Generation · <i>4 months</i></summary>
 
 <sub>nov. 2025 - feb. 2026 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -378,7 +378,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Automation with Generative AI</b> · <i>5 months</i></summary>
+<summary><b>E011 - P006 - T008</b> · Automation with Generative AI · <i>5 months</i></summary>
 
 <sub>jun. 2025 - oct. 2025 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -399,7 +399,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>REST API Optimization</b> · <i>6 months</i></summary>
+<summary><b>E011 - P006 - T007</b> · REST API Optimization · <i>6 months</i></summary>
 
 <sub>dic. 2024 - may. 2025 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -420,7 +420,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>React + TypeScript Migration</b> · <i>6 months</i></summary>
+<summary><b>E011 - P006 - T006</b> · React + TypeScript Migration · <i>6 months</i></summary>
 
 <sub>jun. 2024 - nov. 2024 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -441,7 +441,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Operational Dashboard</b> · <i>5 months</i></summary>
+<summary><b>E011 - P006 - T005</b> · Operational Dashboard · <i>5 months</i></summary>
 
 <sub>ene. 2024 - may. 2024 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -462,7 +462,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Document Management</b> · <i>4 months</i></summary>
+<summary><b>E011 - P006 - T004</b> · Document Management · <i>4 months</i></summary>
 
 <sub>sept. 2023 - dic. 2023 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -483,7 +483,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Client Portal</b> · <i>5 months</i></summary>
+<summary><b>E011 - P006 - T003</b> · Client Portal · <i>5 months</i></summary>
 
 <sub>abr. 2023 - ago. 2023 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -504,7 +504,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Maintenance & Calibration Management</b> · <i>6 months</i></summary>
+<summary><b>E011 - P006 - T002</b> · Maintenance & Calibration Management · <i>6 months</i></summary>
 
 <sub>oct. 2022 - mar. 2023 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -525,7 +525,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Measurement Equipment Inventory</b> · <i>6 months</i></summary>
+<summary><b>E011 - P006 - T001</b> · Measurement Equipment Inventory · <i>6 months</i></summary>
 
 <sub>abr. 2022 - sept. 2022 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -545,11 +545,11 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
-### Grupo de Empresas Tecnológicas — Mobile Inspection App  
-<sub>sept. 2020 - mar. 2022</sub>
+### E011 - P005 - Mobile Inspection App  
+<sub>sept. 2020 - mar. 2022 · Grupo de Empresas Tecnológicas</sub>
 
 <details>
-<summary><b>Field Data Capture</b> · <i>5 months</i></summary>
+<summary><b>E011 - P005 - T005</b> · Field Data Capture · <i>5 months</i></summary>
 
 <sub>nov. 2021 - mar. 2022 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -570,7 +570,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Offline/Online Synchronization</b> · <i>4 months</i></summary>
+<summary><b>E011 - P005 - T004</b> · Offline/Online Synchronization · <i>4 months</i></summary>
 
 <sub>jul. 2021 - oct. 2021 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -591,7 +591,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Photographic Evidence Management</b> · <i>4 months</i></summary>
+<summary><b>E011 - P005 - T003</b> · Photographic Evidence Management · <i>4 months</i></summary>
 
 <sub>mar. 2021 - jun. 2021 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -612,7 +612,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Dynamic Inspection Forms</b> · <i>4 months</i></summary>
+<summary><b>E011 - P005 - T002</b> · Dynamic Inspection Forms · <i>4 months</i></summary>
 
 <sub>nov. 2020 - feb. 2021 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -633,7 +633,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Mobile Foundation for Field Technicians</b> · <i>2 months</i></summary>
+<summary><b>E011 - P005 - T001</b> · Mobile Foundation for Field Technicians · <i>2 months</i></summary>
 
 <sub>sept. 2020 - oct. 2020 · Associated with Grupo de Empresas Tecnológicas</sub>
 
@@ -653,11 +653,11 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
-### Unisys — Drone Pilot Certification  
-<sub>jun. 2019 - ago. 2020</sub>
+### E010 - P004 - Drone Pilot Certification  
+<sub>jun. 2019 - ago. 2020 · Unisys</sub>
 
 <details>
-<summary><b>UX & Case File Optimization</b> · <i>4 months</i></summary>
+<summary><b>E010 - P004 - T004</b> · UX & Case File Optimization · <i>4 months</i></summary>
 
 <sub>may. 2020 - ago. 2020 · Associated with Unisys</sub>
 
@@ -678,7 +678,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Automatic PDF Certificate Generation</b> · <i>5 months</i></summary>
+<summary><b>E010 - P004 - T003</b> · Automatic PDF Certificate Generation · <i>5 months</i></summary>
 
 <sub>dic. 2019 - abr. 2020 · Associated with Unisys</sub>
 
@@ -699,7 +699,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Pilot Document Management</b> · <i>3 months</i></summary>
+<summary><b>E010 - P004 - T002</b> · Pilot Document Management · <i>3 months</i></summary>
 
 <sub>sept. 2019 - nov. 2019 · Associated with Unisys</sub>
 
@@ -720,7 +720,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Pilot Registration & Validation</b> · <i>3 months</i></summary>
+<summary><b>E010 - P004 - T001</b> · Pilot Registration & Validation · <i>3 months</i></summary>
 
 <sub>jun. 2019 - ago. 2019 · Associated with Unisys</sub>
 
@@ -740,11 +740,11 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
-### IO Digital X — Energy Billing & Commissions  
-<sub>sept. 2018 - jun. 2019</sub>
+### E009 - P003 - Energy Billing & Commissions  
+<sub>sept. 2018 - jun. 2019 · IO Digital X</sub>
 
 <details>
-<summary><b>Metrics & Dashboards</b> · <i>3 months</i></summary>
+<summary><b>E009 - P003 - T003</b> · Metrics & Dashboards · <i>3 months</i></summary>
 
 <sub>abr. 2019 - jun. 2019 · Associated with IO Digital X</sub>
 
@@ -765,7 +765,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Billing Management</b> · <i>3 months</i></summary>
+<summary><b>E009 - P003 - T002</b> · Billing Management · <i>3 months</i></summary>
 
 <sub>ene. 2019 - mar. 2019 · Associated with IO Digital X</sub>
 
@@ -786,7 +786,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Commission & Contract Calculation</b> · <i>4 months</i></summary>
+<summary><b>E009 - P003 - T001</b> · Commission & Contract Calculation · <i>4 months</i></summary>
 
 <sub>sept. 2018 - dic. 2018 · Associated with IO Digital X</sub>
 
@@ -806,11 +806,11 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
-### INECO — Photovoltaic Land Management  
-<sub>feb. 2018 - sept. 2018</sub>
+### E008 - P002 - Photovoltaic Land Management  
+<sub>feb. 2018 - sept. 2018 · INECO</sub>
 
 <details>
-<summary><b>Photovoltaic Installation Tracking</b> · <i>3 months</i></summary>
+<summary><b>E008 - P002 - T003</b> · Photovoltaic Installation Tracking · <i>3 months</i></summary>
 
 <sub>jul. 2018 - sept. 2018 · Associated with INECO</sub>
 
@@ -831,7 +831,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Case File Management</b> · <i>2 months</i></summary>
+<summary><b>E008 - P002 - T002</b> · Case File Management · <i>2 months</i></summary>
 
 <sub>may. 2018 - jun. 2018 · Associated with INECO</sub>
 
@@ -852,7 +852,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Land Inventory</b> · <i>3 months</i></summary>
+<summary><b>E008 - P002 - T001</b> · Land Inventory · <i>3 months</i></summary>
 
 <sub>feb. 2018 - abr. 2018 · Associated with INECO</sub>
 
@@ -872,11 +872,11 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
-### GRUPO J2INGENIEROS — Energy Monitoring  
-<sub>mar. 2012 - ene. 2018</sub>
+### E007 - P001 - Energy Monitoring  
+<sub>mar. 2012 - ene. 2018 · GRUPO J2INGENIEROS</sub>
 
 <details>
-<summary><b>Performance Optimization</b> · <i>5 months</i></summary>
+<summary><b>E007 - P001 - T012</b> · Performance Optimization · <i>5 months</i></summary>
 
 <sub>sept. 2017 - ene. 2018 · Associated with GRUPO J2INGENIEROS</sub>
 
@@ -897,7 +897,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Energy Alert System</b> · <i>7 months</i></summary>
+<summary><b>E007 - P001 - T011</b> · Energy Alert System · <i>7 months</i></summary>
 
 <sub>feb. 2017 - ago. 2017 · Associated with GRUPO J2INGENIEROS</sub>
 
@@ -918,7 +918,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Energy Dashboards</b> · <i>5 months</i></summary>
+<summary><b>E007 - P001 - T010</b> · Energy Dashboards · <i>5 months</i></summary>
 
 <sub>sept. 2016 - ene. 2017 · Associated with GRUPO J2INGENIEROS</sub>
 
@@ -939,7 +939,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Historical Consumption Reports</b> · <i>6 months</i></summary>
+<summary><b>E007 - P001 - T009</b> · Historical Consumption Reports · <i>6 months</i></summary>
 
 <sub>mar. 2016 - ago. 2016 · Associated with GRUPO J2INGENIEROS</sub>
 
@@ -960,7 +960,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Advanced Meter Management</b> · <i>7 months</i></summary>
+<summary><b>E007 - P001 - T008</b> · Advanced Meter Management · <i>7 months</i></summary>
 
 <sub>ago. 2015 - feb. 2016 · Associated with GRUPO J2INGENIEROS</sub>
 
@@ -981,7 +981,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Data Synchronization via AJAX</b> · <i>5 months</i></summary>
+<summary><b>E007 - P001 - T007</b> · Data Synchronization via AJAX · <i>5 months</i></summary>
 
 <sub>mar. 2015 - jul. 2015 · Associated with GRUPO J2INGENIEROS</sub>
 
@@ -1002,7 +1002,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Electrical Parameter Monitoring</b> · <i>6 months</i></summary>
+<summary><b>E007 - P001 - T006</b> · Electrical Parameter Monitoring · <i>6 months</i></summary>
 
 <sub>sept. 2014 - feb. 2015 · Associated with GRUPO J2INGENIEROS</sub>
 
@@ -1023,7 +1023,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Consumption Analysis</b> · <i>7 months</i></summary>
+<summary><b>E007 - P001 - T005</b> · Consumption Analysis · <i>7 months</i></summary>
 
 <sub>feb. 2014 - ago. 2014 · Associated with GRUPO J2INGENIEROS</sub>
 
@@ -1044,7 +1044,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Real-Time Visualization</b> · <i>5 months</i></summary>
+<summary><b>E007 - P001 - T004</b> · Real-Time Visualization · <i>5 months</i></summary>
 
 <sub>sept. 2013 - ene. 2014 · Associated with GRUPO J2INGENIEROS</sub>
 
@@ -1065,7 +1065,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Electrical Circuit Management</b> · <i>6 months</i></summary>
+<summary><b>E007 - P001 - T003</b> · Electrical Circuit Management · <i>6 months</i></summary>
 
 <sub>mar. 2013 - ago. 2013 · Associated with GRUPO J2INGENIEROS</sub>
 
@@ -1086,7 +1086,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Energy Data Capture</b> · <i>7 months</i></summary>
+<summary><b>E007 - P001 - T002</b> · Energy Data Capture · <i>7 months</i></summary>
 
 <sub>ago. 2012 - feb. 2013 · Associated with GRUPO J2INGENIEROS</sub>
 
@@ -1107,7 +1107,7 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 </details>
 
 <details>
-<summary><b>Initial Platform Architecture</b> · <i>5 months</i></summary>
+<summary><b>E007 - P001 - T001</b> · Initial Platform Architecture · <i>5 months</i></summary>
 
 <sub>mar. 2012 - jul. 2012 · Associated with GRUPO J2INGENIEROS</sub>
 
@@ -1562,11 +1562,11 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 ---
 
-### Proyecto Personal — Portfolio Personal  
-<sub>may. 2026 - actualidad</sub>
+### E100 - P100 - Portfolio Personal  
+<sub>may. 2026 - actualidad · Proyecto Personal</sub>
 
 <details>
-<summary><b>Portfolio Personal</b> · <i>Todavía en desarrollo</i></summary>
+<summary><b>E100 - P100 - T001</b> · Portfolio Personal · <i>Todavía en desarrollo</i></summary>
 
 <sub>may. 2026 - actualidad · Asociado con Proyecto Personal</sub>
 
@@ -1588,11 +1588,11 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
-### Grupo de Empresas Tecnológicas — Gestión de Calibraciones  
-<sub>abr. 2022 - actualidad</sub>
+### E011 - P006 - Gestión de Calibraciones  
+<sub>abr. 2022 - actualidad · Grupo de Empresas Tecnológicas</sub>
 
 <details>
-<summary><b>Asistente Técnico Interno Basado en IA</b> · <i>Todavía en desarrollo</i></summary>
+<summary><b>E011 - P006 - T010</b> · Asistente Técnico Interno Basado en IA · <i>Todavía en desarrollo</i></summary>
 
 <sub>mar. 2026 - actualidad · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1613,7 +1613,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Generación Automática de Documentación Técnica</b> · <i>4 meses de duración</i></summary>
+<summary><b>E011 - P006 - T009</b> · Generación Automática de Documentación Técnica · <i>4 meses de duración</i></summary>
 
 <sub>nov. 2025 - feb. 2026 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1634,7 +1634,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Automatización con IA Generativa</b> · <i>5 meses de duración</i></summary>
+<summary><b>E011 - P006 - T008</b> · Automatización con IA Generativa · <i>5 meses de duración</i></summary>
 
 <sub>jun. 2025 - oct. 2025 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1655,7 +1655,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Optimización de APIs REST</b> · <i>6 meses de duración</i></summary>
+<summary><b>E011 - P006 - T007</b> · Optimización de APIs REST · <i>6 meses de duración</i></summary>
 
 <sub>dic. 2024 - may. 2025 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1676,7 +1676,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Migración React + TypeScript</b> · <i>6 meses de duración</i></summary>
+<summary><b>E011 - P006 - T006</b> · Migración React + TypeScript · <i>6 meses de duración</i></summary>
 
 <sub>jun. 2024 - nov. 2024 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1697,7 +1697,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Dashboard Operacional</b> · <i>5 meses de duración</i></summary>
+<summary><b>E011 - P006 - T005</b> · Dashboard Operacional · <i>5 meses de duración</i></summary>
 
 <sub>ene. 2024 - may. 2024 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1718,7 +1718,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Gestión Documental</b> · <i>4 meses de duración</i></summary>
+<summary><b>E011 - P006 - T004</b> · Gestión Documental · <i>4 meses de duración</i></summary>
 
 <sub>sept. 2023 - dic. 2023 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1739,7 +1739,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Portal de Clientes</b> · <i>5 meses de duración</i></summary>
+<summary><b>E011 - P006 - T003</b> · Portal de Clientes · <i>5 meses de duración</i></summary>
 
 <sub>abr. 2023 - ago. 2023 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1760,7 +1760,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Gestión de Mantenimientos y Calibraciones</b> · <i>6 meses de duración</i></summary>
+<summary><b>E011 - P006 - T002</b> · Gestión de Mantenimientos y Calibraciones · <i>6 meses de duración</i></summary>
 
 <sub>oct. 2022 - mar. 2023 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1781,7 +1781,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Inventario de Equipos de Medición</b> · <i>6 meses de duración</i></summary>
+<summary><b>E011 - P006 - T001</b> · Inventario de Equipos de Medición · <i>6 meses de duración</i></summary>
 
 <sub>abr. 2022 - sept. 2022 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1801,11 +1801,11 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
-### Grupo de Empresas Tecnológicas — Aplicación Mobile de Inspección  
-<sub>sept. 2020 - mar. 2022</sub>
+### E011 - P005 - Aplicación Mobile de Inspección  
+<sub>sept. 2020 - mar. 2022 · Grupo de Empresas Tecnológicas</sub>
 
 <details>
-<summary><b>Captura de Datos en Campo</b> · <i>5 meses de duración</i></summary>
+<summary><b>E011 - P005 - T005</b> · Captura de Datos en Campo · <i>5 meses de duración</i></summary>
 
 <sub>nov. 2021 - mar. 2022 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1826,7 +1826,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Sincronización Offline/Online</b> · <i>4 meses de duración</i></summary>
+<summary><b>E011 - P005 - T004</b> · Sincronización Offline/Online · <i>4 meses de duración</i></summary>
 
 <sub>jul. 2021 - oct. 2021 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1847,7 +1847,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Gestión de Evidencias Fotográficas</b> · <i>4 meses de duración</i></summary>
+<summary><b>E011 - P005 - T003</b> · Gestión de Evidencias Fotográficas · <i>4 meses de duración</i></summary>
 
 <sub>mar. 2021 - jun. 2021 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1868,7 +1868,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Formularios Dinámicos de Inspección</b> · <i>4 meses de duración</i></summary>
+<summary><b>E011 - P005 - T002</b> · Formularios Dinámicos de Inspección · <i>4 meses de duración</i></summary>
 
 <sub>nov. 2020 - feb. 2021 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1889,7 +1889,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Base Mobile para Técnicos de Campo</b> · <i>2 meses de duración</i></summary>
+<summary><b>E011 - P005 - T001</b> · Base Mobile para Técnicos de Campo · <i>2 meses de duración</i></summary>
 
 <sub>sept. 2020 - oct. 2020 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
@@ -1909,11 +1909,11 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
-### Unisys — Certificación de Pilotos de Dron  
-<sub>jun. 2019 - ago. 2020</sub>
+### E010 - P004 - Certificación de Pilotos de Dron  
+<sub>jun. 2019 - ago. 2020 · Unisys</sub>
 
 <details>
-<summary><b>Optimización UX y Expedientes</b> · <i>4 meses de duración</i></summary>
+<summary><b>E010 - P004 - T004</b> · Optimización UX y Expedientes · <i>4 meses de duración</i></summary>
 
 <sub>may. 2020 - ago. 2020 · Asociado con Unisys</sub>
 
@@ -1934,7 +1934,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Generación Automática de Certificados PDF</b> · <i>5 meses de duración</i></summary>
+<summary><b>E010 - P004 - T003</b> · Generación Automática de Certificados PDF · <i>5 meses de duración</i></summary>
 
 <sub>dic. 2019 - abr. 2020 · Asociado con Unisys</sub>
 
@@ -1955,7 +1955,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Gestión Documental de Pilotos</b> · <i>3 meses de duración</i></summary>
+<summary><b>E010 - P004 - T002</b> · Gestión Documental de Pilotos · <i>3 meses de duración</i></summary>
 
 <sub>sept. 2019 - nov. 2019 · Asociado con Unisys</sub>
 
@@ -1976,7 +1976,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Registro y Validación de Pilotos</b> · <i>3 meses de duración</i></summary>
+<summary><b>E010 - P004 - T001</b> · Registro y Validación de Pilotos · <i>3 meses de duración</i></summary>
 
 <sub>jun. 2019 - ago. 2019 · Asociado con Unisys</sub>
 
@@ -1996,11 +1996,11 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
-### IO Digital X — Facturación y Comisiones Energéticas  
-<sub>sept. 2018 - jun. 2019</sub>
+### E009 - P003 - Facturación y Comisiones Energéticas  
+<sub>sept. 2018 - jun. 2019 · IO Digital X</sub>
 
 <details>
-<summary><b>Métricas y Cuadros de Mando</b> · <i>3 meses de duración</i></summary>
+<summary><b>E009 - P003 - T003</b> · Métricas y Cuadros de Mando · <i>3 meses de duración</i></summary>
 
 <sub>abr. 2019 - jun. 2019 · Asociado con IO Digital X</sub>
 
@@ -2021,7 +2021,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Gestión de Facturación</b> · <i>3 meses de duración</i></summary>
+<summary><b>E009 - P003 - T002</b> · Gestión de Facturación · <i>3 meses de duración</i></summary>
 
 <sub>ene. 2019 - mar. 2019 · Asociado con IO Digital X</sub>
 
@@ -2042,7 +2042,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Cálculo de Comisiones y Contratos</b> · <i>4 meses de duración</i></summary>
+<summary><b>E009 - P003 - T001</b> · Cálculo de Comisiones y Contratos · <i>4 meses de duración</i></summary>
 
 <sub>sept. 2018 - dic. 2018 · Asociado con IO Digital X</sub>
 
@@ -2062,11 +2062,11 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
-### INECO — Gestión de Suelos Fotovoltaicos  
-<sub>feb. 2018 - sept. 2018</sub>
+### E008 - P002 - Gestión de Suelos Fotovoltaicos  
+<sub>feb. 2018 - sept. 2018 · INECO</sub>
 
 <details>
-<summary><b>Seguimiento de Instalaciones Fotovoltaicas</b> · <i>3 meses de duración</i></summary>
+<summary><b>E008 - P002 - T003</b> · Seguimiento de Instalaciones Fotovoltaicas · <i>3 meses de duración</i></summary>
 
 <sub>jul. 2018 - sept. 2018 · Asociado con INECO</sub>
 
@@ -2087,7 +2087,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Gestión de Expedientes</b> · <i>2 meses de duración</i></summary>
+<summary><b>E008 - P002 - T002</b> · Gestión de Expedientes · <i>2 meses de duración</i></summary>
 
 <sub>may. 2018 - jun. 2018 · Asociado con INECO</sub>
 
@@ -2108,7 +2108,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Inventario de Terrenos</b> · <i>3 meses de duración</i></summary>
+<summary><b>E008 - P002 - T001</b> · Inventario de Terrenos · <i>3 meses de duración</i></summary>
 
 <sub>feb. 2018 - abr. 2018 · Asociado con INECO</sub>
 
@@ -2128,11 +2128,11 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
-### GRUPO J2INGENIEROS — Monitorización Energética  
-<sub>mar. 2012 - ene. 2018</sub>
+### E007 - P001 - Monitorización Energética  
+<sub>mar. 2012 - ene. 2018 · GRUPO J2INGENIEROS</sub>
 
 <details>
-<summary><b>Optimización de Rendimiento</b> · <i>5 meses de duración</i></summary>
+<summary><b>E007 - P001 - T012</b> · Optimización de Rendimiento · <i>5 meses de duración</i></summary>
 
 <sub>sept. 2017 - ene. 2018 · Asociado con GRUPO J2INGENIEROS</sub>
 
@@ -2153,7 +2153,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Sistema de Alertas Energéticas</b> · <i>7 meses de duración</i></summary>
+<summary><b>E007 - P001 - T011</b> · Sistema de Alertas Energéticas · <i>7 meses de duración</i></summary>
 
 <sub>feb. 2017 - ago. 2017 · Asociado con GRUPO J2INGENIEROS</sub>
 
@@ -2174,7 +2174,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Cuadros de Mando Energéticos</b> · <i>5 meses de duración</i></summary>
+<summary><b>E007 - P001 - T010</b> · Cuadros de Mando Energéticos · <i>5 meses de duración</i></summary>
 
 <sub>sept. 2016 - ene. 2017 · Asociado con GRUPO J2INGENIEROS</sub>
 
@@ -2195,7 +2195,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Informes Históricos de Consumo</b> · <i>6 meses de duración</i></summary>
+<summary><b>E007 - P001 - T009</b> · Informes Históricos de Consumo · <i>6 meses de duración</i></summary>
 
 <sub>mar. 2016 - ago. 2016 · Asociado con GRUPO J2INGENIEROS</sub>
 
@@ -2216,7 +2216,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Gestión Avanzada de Contadores</b> · <i>7 meses de duración</i></summary>
+<summary><b>E007 - P001 - T008</b> · Gestión Avanzada de Contadores · <i>7 meses de duración</i></summary>
 
 <sub>ago. 2015 - feb. 2016 · Asociado con GRUPO J2INGENIEROS</sub>
 
@@ -2237,7 +2237,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Sincronización de Datos mediante AJAX</b> · <i>5 meses de duración</i></summary>
+<summary><b>E007 - P001 - T007</b> · Sincronización de Datos mediante AJAX · <i>5 meses de duración</i></summary>
 
 <sub>mar. 2015 - jul. 2015 · Asociado con GRUPO J2INGENIEROS</sub>
 
@@ -2258,7 +2258,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Supervisión de Parámetros Eléctricos</b> · <i>6 meses de duración</i></summary>
+<summary><b>E007 - P001 - T006</b> · Supervisión de Parámetros Eléctricos · <i>6 meses de duración</i></summary>
 
 <sub>sept. 2014 - feb. 2015 · Asociado con GRUPO J2INGENIEROS</sub>
 
@@ -2279,7 +2279,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Análisis de Consumos</b> · <i>7 meses de duración</i></summary>
+<summary><b>E007 - P001 - T005</b> · Análisis de Consumos · <i>7 meses de duración</i></summary>
 
 <sub>feb. 2014 - ago. 2014 · Asociado con GRUPO J2INGENIEROS</sub>
 
@@ -2300,7 +2300,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Visualización en Tiempo Real</b> · <i>5 meses de duración</i></summary>
+<summary><b>E007 - P001 - T004</b> · Visualización en Tiempo Real · <i>5 meses de duración</i></summary>
 
 <sub>sept. 2013 - ene. 2014 · Asociado con GRUPO J2INGENIEROS</sub>
 
@@ -2321,7 +2321,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Gestión de Circuitos Eléctricos</b> · <i>6 meses de duración</i></summary>
+<summary><b>E007 - P001 - T003</b> · Gestión de Circuitos Eléctricos · <i>6 meses de duración</i></summary>
 
 <sub>mar. 2013 - ago. 2013 · Asociado con GRUPO J2INGENIEROS</sub>
 
@@ -2342,7 +2342,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Captura de Datos Energéticos</b> · <i>7 meses de duración</i></summary>
+<summary><b>E007 - P001 - T002</b> · Captura de Datos Energéticos · <i>7 meses de duración</i></summary>
 
 <sub>ago. 2012 - feb. 2013 · Asociado con GRUPO J2INGENIEROS</sub>
 
@@ -2363,7 +2363,7 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 </details>
 
 <details>
-<summary><b>Arquitectura Inicial Plataforma</b> · <i>5 meses de duración</i></summary>
+<summary><b>E007 - P001 - T001</b> · Arquitectura Inicial Plataforma · <i>5 meses de duración</i></summary>
 
 <sub>mar. 2012 - jul. 2012 · Asociado con GRUPO J2INGENIEROS</sub>
 
