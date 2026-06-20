@@ -250,11 +250,69 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 ## 🗂️ My projects - Portfolio
 
+### PROJECTS SUMMARY
+
+- **E100-P100-PERSONAL PORTFOLIO**
+  - T001 — Personal Portfolio
+
+- **E011-P006-CALIBRATION MANAGEMENT**
+  - T010 — AI-Based Internal Technical Assistant
+  - T009 — Automatic Technical Documentation Generation
+  - T008 — Automation with Generative AI
+  - T007 — REST API Optimization
+  - T006 — React + TypeScript Migration
+  - T005 — Operational Dashboard
+  - T004 — Document Management
+  - T003 — Client Portal
+  - T002 — Maintenance & Calibration Management
+  - T001 — Measurement Equipment Inventory
+
+- **E011-P005-MOBILE INSPECTION APP**
+  - T005 — Field Data Capture
+  - T004 — Offline/Online Synchronization
+  - T003 — Photographic Evidence Management
+  - T002 — Dynamic Inspection Forms
+  - T001 — Mobile Foundation for Field Technicians
+
+- **E010-P004-DRONE PILOT CERTIFICATION**
+  - T004 — UX & Case File Optimization
+  - T003 — Automatic PDF Certificate Generation
+  - T002 — Pilot Document Management
+  - T001 — Pilot Registration & Validation
+
+- **E009-P003-ENERGY BILLING & COMMISSIONS**
+  - T003 — Metrics & Dashboards
+  - T002 — Billing Management
+  - T001 — Commission & Contract Calculation
+
+- **E008-P002-PHOTOVOLTAIC LAND MANAGEMENT**
+  - T003 — Photovoltaic Installation Tracking
+  - T002 — Case File Management
+  - T001 — Land Inventory
+
+- **E007-P001-ENERGY MONITORING**
+  - T012 — Performance Optimization
+  - T011 — Energy Alert System
+  - T010 — Energy Dashboards
+  - T009 — Historical Consumption Reports
+  - T008 — Advanced Meter Management
+  - T007 — Data Synchronization via AJAX
+  - T006 — Electrical Parameter Monitoring
+  - T005 — Consumption Analysis
+  - T004 — Real-Time Visualization
+  - T003 — Electrical Circuit Management
+  - T002 — Energy Data Capture
+  - T001 — Initial Platform Architecture
+
+---
+
 ### Proyecto Personal — Personal Portfolio  
 <sub>may. 2026 - actualidad</sub>
 
 <details>
 <summary><b>Personal Portfolio</b> · <i>Still in development</i></summary>
+
+<sub>may. 2026 - actualidad · Associated with Proyecto Personal</sub>
 
 **Summary:** Web portfolio developed with React to showcase projects and technology stack.
 
@@ -280,6 +338,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>AI-Based Internal Technical Assistant</b> · <i>Still in development</i></summary>
 
+<sub>mar. 2026 - actualidad · Associated with Grupo de Empresas Tecnológicas</sub>
+
 **Summary:** I took part in the design and development of an internal technical assistant based on Generative Artificial Intelligence, integrated within a corporate calibration management platform. The solution is aimed at improving the productivity of technical and development teams by automating query, analysis, documentation and operational support tasks.
 
 **Objective:** Facilitate access to the organization's technical knowledge, reduce information search times and automate repetitive activities related to software development, document management and the company's internal processes.
@@ -298,6 +358,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Automatic Technical Documentation Generation</b> · <i>4 months</i></summary>
+
+<sub>nov. 2025 - feb. 2026 · Associated with Grupo de Empresas Tecnológicas</sub>
 
 **Summary:** I took part in the design and implementation of an automatic technical documentation generation system integrated within a corporate calibration management platform. The solution automated the creation of operational and technical documentation from information stored in the organization's systems.
 
@@ -318,6 +380,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Automation with Generative AI</b> · <i>5 months</i></summary>
 
+<sub>jun. 2025 - oct. 2025 · Associated with Grupo de Empresas Tecnológicas</sub>
+
 **Summary:** I took part in the design and implementation of automation solutions based on Generative Artificial Intelligence within a corporate calibration management platform. The project was aimed at optimizing internal processes, reducing repetitive manual tasks and improving the operational efficiency of technical and functional teams.
 
 **Objective:** Increase productivity by automating activities related to information analysis, technical content generation, documentation creation, internal user assistance and support for software development and maintenance processes.
@@ -336,6 +400,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>REST API Optimization</b> · <i>6 months</i></summary>
+
+<sub>dic. 2024 - may. 2025 · Associated with Grupo de Empresas Tecnológicas</sub>
 
 **Summary:** I took part in the optimization and evolution of the REST API architecture used by a corporate calibration management platform. The project was aimed at improving the performance, scalability and maintainability of the services that support the different applications and modules of the corporate ecosystem.
 
@@ -356,6 +422,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>React + TypeScript Migration</b> · <i>6 months</i></summary>
 
+<sub>jun. 2024 - nov. 2024 · Associated with Grupo de Empresas Tecnológicas</sub>
+
 **Summary:** I took part in the technological migration of a corporate calibration management application from a JavaScript codebase toward a modern architecture based on React and TypeScript. The project aimed to improve the maintainability, scalability and quality of the application's code, making future evolution easier and reducing the likelihood of production errors.
 
 **Objective:** Modernize the frontend platform through the adoption of TypeScript, improving development robustness, early error detection and the productivity of the teams responsible for maintaining and evolving the application.
@@ -374,6 +442,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Operational Dashboard</b> · <i>5 months</i></summary>
+
+<sub>ene. 2024 - may. 2024 · Associated with Grupo de Empresas Tecnológicas</sub>
 
 **Summary:** I took part in the design and development of an operational dashboard intended to provide a centralized, real-time view of the most relevant information of a corporate calibration management platform. The project focused on improving the tracking, analysis and decision-making capabilities of the organization's various user profiles.
 
@@ -394,6 +464,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Document Management</b> · <i>4 months</i></summary>
 
+<sub>sept. 2023 - dic. 2023 · Associated with Grupo de Empresas Tecnológicas</sub>
+
 **Summary:** I took part in the design and development of a document management module integrated within a corporate calibration management platform. The project was aimed at centralizing, organizing and facilitating access to the technical and administrative documentation associated with measurement equipment, calibrations, maintenance and quality processes.
 
 **Objective:** Improve the organization's document traceability, reduce dependence on scattered repositories and ensure the immediate availability of the information needed for the various operational and audit processes.
@@ -412,6 +484,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Client Portal</b> · <i>5 months</i></summary>
+
+<sub>abr. 2023 - ago. 2023 · Associated with Grupo de Empresas Tecnológicas</sub>
 
 **Summary:** I took part in the design and development of a client web portal integrated within a corporate calibration management platform. The project was aimed at providing clients with direct, secure access to information related to their equipment, certificates, calibrations, maintenance and associated documentation.
 
@@ -432,6 +506,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Maintenance & Calibration Management</b> · <i>6 months</i></summary>
 
+<sub>oct. 2022 - mar. 2023 · Associated with Grupo de Empresas Tecnológicas</sub>
+
 **Summary:** I took part in the design and development of a comprehensive module for maintenance and calibration management within a corporate platform focused on the control of measurement equipment and technical assets. The project focused on digitizing operational processes, improving activity planning and increasing the traceability of interventions performed on the equipment.
 
 **Objective:** Centralize the management of preventive and corrective maintenance and calibrations in a single platform, making it easier to plan tasks, track completed actions and control the operational status of equipment throughout its lifecycle.
@@ -450,6 +526,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Measurement Equipment Inventory</b> · <i>6 months</i></summary>
+
+<sub>abr. 2022 - sept. 2022 · Associated with Grupo de Empresas Tecnológicas</sub>
 
 **Summary:** I took part in the design and development of the measurement equipment inventory module of a corporate calibration management platform. This project formed the functional foundation on which the maintenance, calibration, document management, client portal and operational dashboard modules were later built.
 
@@ -473,6 +551,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Field Data Capture</b> · <i>5 months</i></summary>
 
+<sub>nov. 2021 - mar. 2022 · Associated with Grupo de Empresas Tecnológicas</sub>
+
 **Summary:** I took part in the design and development of field data capture features for a technical inspection mobile application used by operational staff while carrying out work on installations, equipment and assets managed by the organization. The project was aimed at replacing manual paper-based procedures with digital processes integrated with corporate systems.
 
 **Objective:** Make it easier to collect information directly from mobile devices, improve the quality of the data obtained during inspections and reduce the time needed to record, process and query the information generated in the field.
@@ -491,6 +571,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Offline/Online Synchronization</b> · <i>4 months</i></summary>
+
+<sub>jul. 2021 - oct. 2021 · Associated with Grupo de Empresas Tecnológicas</sub>
 
 **Summary:** I took part in the design and implementation of an offline/online synchronization system for a technical inspection mobile application used by field staff. The project was aimed at ensuring the application worked in environments with limited or no connectivity, allowing users to continue working normally regardless of network availability.
 
@@ -511,6 +593,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Photographic Evidence Management</b> · <i>4 months</i></summary>
 
+<sub>mar. 2021 - jun. 2021 · Associated with Grupo de Empresas Tecnológicas</sub>
+
 **Summary:** I took part in the design and development of a photographic evidence management system integrated into a technical inspection mobile application. The project was aimed at facilitating the capture, storage, querying and traceability of images obtained during inspections carried out by field technicians.
 
 **Objective:** Digitize the process of collecting visual evidence associated with inspections, maintenance and incidents, ensuring the correct linking of images with operational records and improving the quality of the information available for subsequent analysis and audits.
@@ -530,6 +614,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Dynamic Inspection Forms</b> · <i>4 months</i></summary>
 
+<sub>nov. 2020 - feb. 2021 · Associated with Grupo de Empresas Tecnológicas</sub>
+
 **Summary:** I took part in the design and development of a dynamic forms system for a technical inspection mobile application used by operational staff in the field. The project was aimed at replacing static forms and manual procedures with a flexible solution able to adapt to different types of inspections, assets and operational processes.
 
 **Objective:** Make it easier to create and use configurable forms without needing to modify the application's code, allowing inspection processes to be quickly adapted to new operational needs and business requirements.
@@ -548,6 +634,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Mobile Foundation for Field Technicians</b> · <i>2 months</i></summary>
+
+<sub>sept. 2020 - oct. 2020 · Associated with Grupo de Empresas Tecnológicas</sub>
 
 **Summary:** I took part in the design and development of the technological foundation of a mobile application intended for field technicians responsible for carrying out inspections, maintenance and the collection of operational information about assets and installations. This project was the starting point on which advanced features such as dynamic forms, photographic evidence management, offline/online synchronization and field data capture were later developed.
 
@@ -571,6 +659,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>UX & Case File Optimization</b> · <i>4 months</i></summary>
 
+<sub>may. 2020 - ago. 2020 · Associated with Unisys</sub>
+
 **Summary:** I took part in optimizing the user experience and case file management processes within a web platform used for drone pilot certification. The project was aimed at simplifying the daily operations of administrative users and candidates, improving the application's usability and reducing the complexity of the processes associated with certification processing.
 
 **Objective:** Increase the platform's operational efficiency by improving navigation flows, simplifying administrative processes and optimizing the management of documentation and case files related to pilot certification.
@@ -589,6 +679,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Automatic PDF Certificate Generation</b> · <i>5 months</i></summary>
+
+<sub>dic. 2019 - abr. 2020 · Associated with Unisys</sub>
 
 **Summary:** I took part in the design and development of an automatic PDF certificate generation system for a drone pilot certification platform. The project was aimed at automating the issuance of official documentation associated with candidate evaluation, validation and certification processes, reducing manual tasks and improving the operational efficiency of administrative teams.
 
@@ -609,6 +701,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Pilot Document Management</b> · <i>3 months</i></summary>
 
+<sub>sept. 2019 - nov. 2019 · Associated with Unisys</sub>
+
 **Summary:** I took part in the design and development of a document management module for a drone pilot certification platform. The project was aimed at centralizing the documentation required during certification processes, making it easier to submit, validate, store and query the information associated with each candidate.
 
 **Objective:** Digitize and optimize the document management of certification case files, reducing dependence on manual processes, improving documentation traceability and simplifying the administrative tasks carried out by the various departments involved.
@@ -627,6 +721,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Pilot Registration & Validation</b> · <i>3 months</i></summary>
+
+<sub>jun. 2019 - ago. 2019 · Associated with Unisys</sub>
 
 **Summary:** I took part in the design and development of the pilot registration and validation module for a web platform intended to manage drone pilot certification processes. This project formed the functional foundation on which the document management, automatic certificate generation and case file optimization modules were later built.
 
@@ -650,6 +746,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Metrics & Dashboards</b> · <i>3 months</i></summary>
 
+<sub>abr. 2019 - jun. 2019 · Associated with IO Digital X</sub>
+
 **Summary:** I took part in the design and development of a metrics and dashboards system for an energy-sector billing and commission management platform. The project was aimed at providing a consolidated view of the main business indicators, allowing the organization's managers to track commercial and financial activity more efficiently.
 
 **Objective:** Facilitate decision-making through centralized access to key information about contracts, billing, commissions, commercial performance and the evolution of the various processes managed by the platform.
@@ -669,6 +767,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Billing Management</b> · <i>3 months</i></summary>
 
+<sub>ene. 2019 - mar. 2019 · Associated with IO Digital X</sub>
+
 **Summary:** I took part in the design and development of billing management features for an energy-sector platform focused on managing contracts, consumption, settlements and economic processes associated with clients and commercial partners. The project focused on improving the automation of billing processes and increasing the reliability of the financial information managed by the organization.
 
 **Objective:** Optimize the processes related to generating, querying and tracking billing information, reducing manual tasks and improving the consistency of the data used in administrative and financial processes.
@@ -687,6 +787,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Commission & Contract Calculation</b> · <i>4 months</i></summary>
+
+<sub>sept. 2018 - dic. 2018 · Associated with IO Digital X</sub>
 
 **Summary:** I took part in the design and development of a module for contract management and commission calculation within an energy-sector platform. This project formed the functional foundation on which the billing, reporting and dashboard modules were later developed, centralizing commercial information and automating key processes for the organization.
 
@@ -710,6 +812,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Photovoltaic Installation Tracking</b> · <i>3 months</i></summary>
 
+<sub>jul. 2018 - sept. 2018 · Associated with INECO</sub>
+
 **Summary:** I took part in the development of features for tracking and controlling photovoltaic installations within a platform focused on energy asset management. The project focused on providing a centralized view of the status of installations, making it easier to access technical and administrative information relevant to their supervision and maintenance.
 
 **Objective:** Improve the traceability and control of photovoltaic installations through tools that allowed up-to-date information about assets, locations, operational statuses and associated documentation to be queried.
@@ -729,6 +833,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Case File Management</b> · <i>2 months</i></summary>
 
+<sub>may. 2018 - jun. 2018 · Associated with INECO</sub>
+
 **Summary:** I took part in the development of case file management features within a platform focused on managing projects related to photovoltaic land and installations. The project focused on centralizing the administrative and technical information associated with the various case files managed throughout the project lifecycle.
 
 **Objective:** Facilitate the organization, tracking and querying of the documentation and procedures associated with photovoltaic projects, improving information traceability and reducing the complexity of administrative processes.
@@ -747,6 +853,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Land Inventory</b> · <i>3 months</i></summary>
+
+<sub>feb. 2018 - abr. 2018 · Associated with INECO</sub>
 
 **Summary:** I took part in the design and development of a land inventory system intended to support the management of projects related to photovoltaic installations. This project formed the functional foundation on which the case file management and installation tracking modules were later developed, centralizing the information associated with potential sites and assets managed by the organization.
 
@@ -770,6 +878,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Performance Optimization</b> · <i>5 months</i></summary>
 
+<sub>sept. 2017 - ene. 2018 · Associated with GRUPO J2INGENIEROS</sub>
+
 **Summary:** I took part in a performance optimization project for an energy monitoring platform used to supervise and analyze electrical consumption in industrial installations and buildings. The project was aimed at improving the application's response speed, optimizing the processing of large volumes of information and increasing the solution's scalability.
 
 **Objective:** Increase the platform's overall performance, reduce information loading and processing times, optimize database queries and improve the user experience in scenarios with large amounts of historical data and real-time measurements.
@@ -788,6 +898,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Energy Alert System</b> · <i>7 months</i></summary>
+
+<sub>feb. 2017 - ago. 2017 · Associated with GRUPO J2INGENIEROS</sub>
 
 **Summary:** I took part in the design and development of an energy alert system integrated within an electrical consumption monitoring and management platform. The project was aimed at automatically detecting anomalous situations in the monitored installations and notifying the responsible users to enable a fast, efficient response.
 
@@ -808,6 +920,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Energy Dashboards</b> · <i>5 months</i></summary>
 
+<sub>sept. 2016 - ene. 2017 · Associated with GRUPO J2INGENIEROS</sub>
+
 **Summary:** I took part in the design and development of energy dashboards for an electrical consumption monitoring and analysis platform used in industrial, tertiary and service environments. The project was aimed at transforming large volumes of energy data into clear, useful visual information to support decision-making by energy managers, maintenance managers and executive teams.
 
 **Objective:** Provide a global, centralized view of the energy behavior of the monitored installations, allowing trends, deviations, savings opportunities and areas for improvement in energy efficiency to be identified.
@@ -826,6 +940,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Historical Consumption Reports</b> · <i>6 months</i></summary>
+
+<sub>mar. 2016 - ago. 2016 · Associated with GRUPO J2INGENIEROS</sub>
 
 **Summary:** I took part in the design and development of a historical consumption reporting system integrated into an energy monitoring platform used to supervise industrial installations, buildings and service centers. The project was aimed at providing advanced tools for querying and analyzing historical information to support the evaluation of energy behavior over the medium and long term.
 
@@ -846,6 +962,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Advanced Meter Management</b> · <i>7 months</i></summary>
 
+<sub>ago. 2015 - feb. 2016 · Associated with GRUPO J2INGENIEROS</sub>
+
 **Summary:** I took part in the design and development of advanced features for energy meter management within a monitoring platform used in industrial installations, buildings and service centers. The project was aimed at improving the administration of measurement devices, optimizing the collection of energy information and facilitating the centralized supervision of multiple consumption points.
 
 **Objective:** Provide tools that allowed the lifecycle of energy meters to be managed efficiently, ensure the quality of the collected data and make it easier to exploit the information generated by the various measurement devices connected to the platform.
@@ -864,6 +982,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Data Synchronization via AJAX</b> · <i>5 months</i></summary>
+
+<sub>mar. 2015 - jul. 2015 · Associated with GRUPO J2INGENIEROS</sub>
 
 **Summary:** I took part in the design and implementation of data synchronization mechanisms using AJAX within an energy monitoring platform used to supervise electrical consumption and operational parameters in real time. The project was aimed at improving the fluidity of the user experience and optimizing the updating of information without needing to fully reload the application's pages.
 
@@ -884,6 +1004,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Electrical Parameter Monitoring</b> · <i>6 months</i></summary>
 
+<sub>sept. 2014 - feb. 2015 · Associated with GRUPO J2INGENIEROS</sub>
+
 **Summary:** I took part in the design and development of an electrical parameter monitoring system integrated into an energy monitoring platform focused on industrial installations, corporate buildings and service centers. The project focused on providing real-time visibility over the electrical behavior of the installations, making it easier to detect incidents and analyze the quality of the energy supply.
 
 **Objective:** Enable the continuous monitoring of critical electrical parameters through the collection, storage and visualization of information from measurement equipment distributed across different installations, helping to improve operational control and energy efficiency.
@@ -902,6 +1024,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Consumption Analysis</b> · <i>7 months</i></summary>
+
+<sub>feb. 2014 - ago. 2014 · Associated with GRUPO J2INGENIEROS</sub>
 
 **Summary:** I took part in the design and development of energy consumption analysis features within a monitoring platform used to supervise industrial installations, corporate buildings and service centers. The project was aimed at transforming the data collected by the measurement systems into useful information for identifying consumption patterns and energy improvement opportunities.
 
@@ -922,6 +1046,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Real-Time Visualization</b> · <i>5 months</i></summary>
 
+<sub>sept. 2013 - ene. 2014 · Associated with GRUPO J2INGENIEROS</sub>
+
 **Summary:** I took part in the design and development of real-time visualization features for an energy monitoring platform focused on the supervision of industrial installations, corporate buildings and service centers. The project focused on providing immediate access to information from electrical measurement systems, making it easier to continuously observe the energy behavior of the monitored installations.
 
 **Objective:** Allow users to view continuously updated information, making it easier to detect incidents early, track energy consumption and operationally supervise installations through accessible, easy-to-interpret graphical tools.
@@ -940,6 +1066,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Electrical Circuit Management</b> · <i>6 months</i></summary>
+
+<sub>mar. 2013 - ago. 2013 · Associated with GRUPO J2INGENIEROS</sub>
 
 **Summary:** I took part in the design and development of a module for electrical circuit management within an energy monitoring platform intended for industrial installations, corporate buildings and service centers. The project was aimed at structuring and organizing the electrical information of the monitored installations, allowing the various circuits and their relationships with measurement equipment and supervision systems to be represented logically.
 
@@ -960,6 +1088,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 <details>
 <summary><b>Energy Data Capture</b> · <i>7 months</i></summary>
 
+<sub>ago. 2012 - feb. 2013 · Associated with GRUPO J2INGENIEROS</sub>
+
 **Summary:** I took part in the design and development of an energy data capture system intended to collect, store and process information from measurement devices installed in industrial infrastructures and buildings. The project was aimed at establishing a solid foundation for energy monitoring, ensuring the availability and reliability of the data later used by the analysis, supervision and reporting modules.
 
 **Objective:** Implement efficient mechanisms for the automatic collection of energy information, allowing the data generated by different measurement devices to be centralized and providing a single source of information for the monitoring platform.
@@ -978,6 +1108,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 <details>
 <summary><b>Initial Platform Architecture</b> · <i>5 months</i></summary>
+
+<sub>mar. 2012 - jul. 2012 · Associated with GRUPO J2INGENIEROS</sub>
 
 **Summary:** I took part in the design and development of the initial architecture of an energy monitoring platform intended to collect, manage and analyze information from electrical measurement systems. This project was the starting point on which the data capture, circuit management, real-time visualization, consumption analysis, reporting and energy dashboard modules were later built.
 
@@ -1374,11 +1506,69 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 ## 🗂️ Mis proyectos - Portfolio
 
+### RESUMEN DE PROYECTOS
+
+- **E100-P100-PORTFOLIO PERSONAL**
+  - T001 — Portfolio Personal
+
+- **E011-P006-GESTIÓN DE CALIBRACIONES**
+  - T010 — Asistente Técnico Interno Basado en IA
+  - T009 — Generación Automática de Documentación Técnica
+  - T008 — Automatización con IA Generativa
+  - T007 — Optimización de APIs REST
+  - T006 — Migración React + TypeScript
+  - T005 — Dashboard Operacional
+  - T004 — Gestión Documental
+  - T003 — Portal de Clientes
+  - T002 — Gestión de Mantenimientos y Calibraciones
+  - T001 — Inventario de Equipos de Medición
+
+- **E011-P005-APLICACIÓN MOBILE DE INSPECCIÓN**
+  - T005 — Captura de Datos en Campo
+  - T004 — Sincronización Offline/Online
+  - T003 — Gestión de Evidencias Fotográficas
+  - T002 — Formularios Dinámicos de Inspección
+  - T001 — Base Mobile para Técnicos de Campo
+
+- **E010-P004-CERTIFICACIÓN DE PILOTOS DE DRON**
+  - T004 — Optimización UX y Expedientes
+  - T003 — Generación Automática de Certificados PDF
+  - T002 — Gestión Documental de Pilotos
+  - T001 — Registro y Validación de Pilotos
+
+- **E009-P003-FACTURACIÓN Y COMISIONES ENERGÉTICAS**
+  - T003 — Métricas y Cuadros de Mando
+  - T002 — Gestión de Facturación
+  - T001 — Cálculo de Comisiones y Contratos
+
+- **E008-P002-GESTIÓN DE SUELOS FOTOVOLTAICOS**
+  - T003 — Seguimiento de Instalaciones Fotovoltaicas
+  - T002 — Gestión de Expedientes
+  - T001 — Inventario de Terrenos
+
+- **E007-P001-MONITORIZACIÓN ENERGÉTICA**
+  - T012 — Optimización de Rendimiento
+  - T011 — Sistema de Alertas Energéticas
+  - T010 — Cuadros de Mando Energéticos
+  - T009 — Informes Históricos de Consumo
+  - T008 — Gestión Avanzada de Contadores
+  - T007 — Sincronización de Datos mediante AJAX
+  - T006 — Supervisión de Parámetros Eléctricos
+  - T005 — Análisis de Consumos
+  - T004 — Visualización en Tiempo Real
+  - T003 — Gestión de Circuitos Eléctricos
+  - T002 — Captura de Datos Energéticos
+  - T001 — Arquitectura Inicial Plataforma
+
+---
+
 ### Proyecto Personal — Portfolio Personal  
 <sub>may. 2026 - actualidad</sub>
 
 <details>
 <summary><b>Portfolio Personal</b> · <i>Todavía en desarrollo</i></summary>
+
+<sub>may. 2026 - actualidad · Asociado con Proyecto Personal</sub>
 
 **Resumen:** Portfolio web desarrollado con React para presentar proyectos y stack tecnológico.
 
@@ -1404,6 +1594,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Asistente Técnico Interno Basado en IA</b> · <i>Todavía en desarrollo</i></summary>
 
+<sub>mar. 2026 - actualidad · Asociado con Grupo de Empresas Tecnológicas</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de un asistente técnico interno basado en Inteligencia Artificial Generativa, integrado dentro de una plataforma corporativa de gestión de calibraciones. La solución está orientada a mejorar la productividad de los equipos técnicos y de desarrollo mediante la automatización de tareas de consulta, análisis, documentación y soporte operativo.
 
 **Objetivo:** Facilitar el acceso al conocimiento técnico de la organización, reducir tiempos de búsqueda de información y automatizar actividades repetitivas relacionadas con el desarrollo de software, la gestión documental y los procesos internos de la compañía.
@@ -1422,6 +1614,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Generación Automática de Documentación Técnica</b> · <i>4 meses de duración</i></summary>
+
+<sub>nov. 2025 - feb. 2026 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
 **Resumen:** Participé en el diseño e implementación de un sistema de generación automática de documentación técnica integrado dentro de una plataforma corporativa de gestión de calibraciones. La solución permitió automatizar la elaboración de documentación operativa y técnica a partir de información almacenada en los sistemas de la organización.
 
@@ -1442,6 +1636,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Automatización con IA Generativa</b> · <i>5 meses de duración</i></summary>
 
+<sub>jun. 2025 - oct. 2025 · Asociado con Grupo de Empresas Tecnológicas</sub>
+
 **Resumen:** Participé en el diseño e implementación de soluciones de automatización basadas en Inteligencia Artificial Generativa dentro de una plataforma corporativa de gestión de calibraciones. El proyecto estuvo orientado a optimizar procesos internos, reducir tareas manuales repetitivas y mejorar la eficiencia operativa de los equipos técnicos y funcionales.
 
 **Objetivo:** Incrementar la productividad mediante la automatización de actividades relacionadas con análisis de información, generación de contenidos técnicos, elaboración de documentación, asistencia a usuarios internos y soporte a procesos de desarrollo y mantenimiento de software.
@@ -1460,6 +1656,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Optimización de APIs REST</b> · <i>6 meses de duración</i></summary>
+
+<sub>dic. 2024 - may. 2025 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
 **Resumen:** Participé en la optimización y evolución de la arquitectura de APIs REST utilizadas por una plataforma corporativa de gestión de calibraciones. El proyecto estuvo orientado a mejorar el rendimiento, la escalabilidad y la mantenibilidad de los servicios encargados de dar soporte a las distintas aplicaciones y módulos del ecosistema corporativo.
 
@@ -1480,6 +1678,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Migración React + TypeScript</b> · <i>6 meses de duración</i></summary>
 
+<sub>jun. 2024 - nov. 2024 · Asociado con Grupo de Empresas Tecnológicas</sub>
+
 **Resumen:** Participé en la migración tecnológica de una aplicación corporativa de gestión de calibraciones desde una base de código desarrollada en JavaScript hacia una arquitectura moderna basada en React y TypeScript. El proyecto tuvo como objetivo mejorar la mantenibilidad, escalabilidad y calidad del código de la aplicación, facilitando su evolución futura y reduciendo la probabilidad de errores en producción.
 
 **Objetivo:** Modernizar la plataforma frontend mediante la adopción de TypeScript, mejorando la robustez del desarrollo, la detección temprana de errores y la productividad de los equipos encargados del mantenimiento y evolución de la aplicación.
@@ -1498,6 +1698,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Dashboard Operacional</b> · <i>5 meses de duración</i></summary>
+
+<sub>ene. 2024 - may. 2024 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
 **Resumen:** Participé en el diseño y desarrollo de un dashboard operacional destinado a proporcionar una visión centralizada y en tiempo real de la información más relevante de una plataforma corporativa de gestión de calibraciones. El proyecto estuvo enfocado en mejorar la capacidad de seguimiento, análisis y toma de decisiones de los distintos perfiles de usuario de la organización.
 
@@ -1518,6 +1720,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Gestión Documental</b> · <i>4 meses de duración</i></summary>
 
+<sub>sept. 2023 - dic. 2023 · Asociado con Grupo de Empresas Tecnológicas</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de un módulo de gestión documental integrado dentro de una plataforma corporativa de gestión de calibraciones. El proyecto estuvo orientado a centralizar, organizar y facilitar el acceso a la documentación técnica y administrativa asociada a equipos de medición, calibraciones, mantenimientos y procesos de calidad.
 
 **Objetivo:** Mejorar la trazabilidad documental de la organización, reducir la dependencia de repositorios dispersos y garantizar la disponibilidad inmediata de la información necesaria para los distintos procesos operativos y de auditoría.
@@ -1536,6 +1740,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Portal de Clientes</b> · <i>5 meses de duración</i></summary>
+
+<sub>abr. 2023 - ago. 2023 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
 **Resumen:** Participé en el diseño y desarrollo de un portal web para clientes integrado dentro de una plataforma corporativa de gestión de calibraciones. El proyecto estuvo orientado a proporcionar a los clientes acceso directo y seguro a la información relacionada con sus equipos, certificados, calibraciones, mantenimientos y documentación asociada.
 
@@ -1556,6 +1762,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Gestión de Mantenimientos y Calibraciones</b> · <i>6 meses de duración</i></summary>
 
+<sub>oct. 2022 - mar. 2023 · Asociado con Grupo de Empresas Tecnológicas</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de un módulo integral para la gestión de mantenimientos y calibraciones dentro de una plataforma corporativa orientada al control de equipos de medición y activos técnicos. El proyecto estuvo enfocado en digitalizar procesos operativos, mejorar la planificación de actividades y aumentar la trazabilidad de las intervenciones realizadas sobre los equipos.
 
 **Objetivo:** Centralizar la gestión de mantenimientos preventivos, correctivos y calibraciones en una única plataforma, facilitando la planificación de tareas, el seguimiento de actuaciones realizadas y el control del estado operativo de los equipos a lo largo de su ciclo de vida.
@@ -1574,6 +1782,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Inventario de Equipos de Medición</b> · <i>6 meses de duración</i></summary>
+
+<sub>abr. 2022 - sept. 2022 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
 **Resumen:** Participé en el diseño y desarrollo del módulo de inventario de equipos de medición de una plataforma corporativa de gestión de calibraciones. Este proyecto constituyó la base funcional sobre la que posteriormente se desarrollaron los módulos de mantenimientos, calibraciones, gestión documental, portal de clientes y cuadros de mando operacionales.
 
@@ -1597,6 +1807,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Captura de Datos en Campo</b> · <i>5 meses de duración</i></summary>
 
+<sub>nov. 2021 - mar. 2022 · Asociado con Grupo de Empresas Tecnológicas</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de funcionalidades de captura de datos en campo para una aplicación móvil de inspección técnica utilizada por personal operativo durante la realización de trabajos sobre instalaciones, equipos y activos gestionados por la organización. El proyecto estuvo orientado a sustituir procedimientos manuales basados en papel por procesos digitales integrados con los sistemas corporativos.
 
 **Objetivo:** Facilitar la recogida de información directamente desde dispositivos móviles, mejorar la calidad de los datos obtenidos durante las inspecciones y reducir los tiempos necesarios para registrar, procesar y consultar la información generada en campo.
@@ -1615,6 +1827,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Sincronización Offline/Online</b> · <i>4 meses de duración</i></summary>
+
+<sub>jul. 2021 - oct. 2021 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
 **Resumen:** Participé en el diseño e implementación de un sistema de sincronización offline/online para una aplicación móvil de inspección técnica utilizada por personal de campo. El proyecto estuvo orientado a garantizar el funcionamiento de la aplicación en entornos con conectividad limitada o inexistente, permitiendo a los usuarios continuar trabajando con normalidad independientemente de la disponibilidad de red.
 
@@ -1635,6 +1849,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Gestión de Evidencias Fotográficas</b> · <i>4 meses de duración</i></summary>
 
+<sub>mar. 2021 - jun. 2021 · Asociado con Grupo de Empresas Tecnológicas</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de un sistema de gestión de evidencias fotográficas integrado en una aplicación móvil de inspección técnica. El proyecto estuvo orientado a facilitar la captura, almacenamiento, consulta y trazabilidad de imágenes obtenidas durante las inspecciones realizadas por los técnicos de campo.
 
 **Objetivo:** Digitalizar el proceso de recopilación de evidencias visuales asociadas a inspecciones, mantenimientos e incidencias, garantizando la correcta vinculación de las imágenes con los registros operativos y mejorando la calidad de la información disponible para análisis y auditorías posteriores.
@@ -1654,6 +1870,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Formularios Dinámicos de Inspección</b> · <i>4 meses de duración</i></summary>
 
+<sub>nov. 2020 - feb. 2021 · Asociado con Grupo de Empresas Tecnológicas</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de un sistema de formularios dinámicos para una aplicación móvil de inspección técnica utilizada por personal operativo en campo. El proyecto estuvo orientado a sustituir formularios estáticos y procedimientos manuales por una solución flexible capaz de adaptarse a diferentes tipos de inspecciones, activos y procesos operativos.
 
 **Objetivo:** Facilitar la creación y utilización de formularios configurables sin necesidad de realizar modificaciones en el código de la aplicación, permitiendo adaptar rápidamente los procesos de inspección a nuevas necesidades operativas y requisitos de negocio.
@@ -1672,6 +1890,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Base Mobile para Técnicos de Campo</b> · <i>2 meses de duración</i></summary>
+
+<sub>sept. 2020 - oct. 2020 · Asociado con Grupo de Empresas Tecnológicas</sub>
 
 **Resumen:** Participé en el diseño y desarrollo de la base tecnológica de una aplicación móvil destinada a técnicos de campo encargados de realizar inspecciones, mantenimientos y recopilación de información operativa sobre activos e instalaciones. Este proyecto constituyó el punto de partida sobre el que posteriormente se desarrollaron funcionalidades avanzadas como formularios dinámicos, gestión de evidencias fotográficas, sincronización offline/online y captura de datos en campo.
 
@@ -1695,6 +1915,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Optimización UX y Expedientes</b> · <i>4 meses de duración</i></summary>
 
+<sub>may. 2020 - ago. 2020 · Asociado con Unisys</sub>
+
 **Resumen:** Participé en la optimización de la experiencia de usuario y de los procesos de gestión de expedientes dentro de una plataforma web utilizada para la certificación de pilotos de dron. El proyecto estuvo orientado a simplificar la operativa diaria de usuarios administrativos y candidatos, mejorando la usabilidad de la aplicación y reduciendo la complejidad de los procesos asociados a la tramitación de certificaciones.
 
 **Objetivo:** Incrementar la eficiencia operativa de la plataforma mediante la mejora de los flujos de navegación, la simplificación de procesos administrativos y la optimización de la gestión documental y de expedientes relacionados con la certificación de pilotos.
@@ -1713,6 +1935,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Generación Automática de Certificados PDF</b> · <i>5 meses de duración</i></summary>
+
+<sub>dic. 2019 - abr. 2020 · Asociado con Unisys</sub>
 
 **Resumen:** Participé en el diseño y desarrollo de un sistema de generación automática de certificados PDF para una plataforma de certificación de pilotos de dron. El proyecto estuvo orientado a automatizar la emisión de documentación oficial asociada a los procesos de evaluación, validación y certificación de candidatos, reduciendo tareas manuales y mejorando la eficiencia operativa de los equipos administrativos.
 
@@ -1733,6 +1957,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Gestión Documental de Pilotos</b> · <i>3 meses de duración</i></summary>
 
+<sub>sept. 2019 - nov. 2019 · Asociado con Unisys</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de un módulo de gestión documental para una plataforma de certificación de pilotos de dron. El proyecto estuvo orientado a centralizar la documentación requerida durante los procesos de certificación, facilitando la presentación, validación, almacenamiento y consulta de la información asociada a cada candidato.
 
 **Objetivo:** Digitalizar y optimizar la gestión documental de los expedientes de certificación, reduciendo la dependencia de procesos manuales, mejorando la trazabilidad de la documentación y simplificando las tareas administrativas realizadas por los distintos departamentos implicados.
@@ -1751,6 +1977,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Registro y Validación de Pilotos</b> · <i>3 meses de duración</i></summary>
+
+<sub>jun. 2019 - ago. 2019 · Asociado con Unisys</sub>
 
 **Resumen:** Participé en el diseño y desarrollo del módulo de registro y validación de pilotos para una plataforma web destinada a gestionar procesos de certificación de pilotos de dron. Este proyecto constituyó la base funcional sobre la que posteriormente se construyeron los módulos de gestión documental, generación automática de certificados y optimización de expedientes.
 
@@ -1774,6 +2002,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Métricas y Cuadros de Mando</b> · <i>3 meses de duración</i></summary>
 
+<sub>abr. 2019 - jun. 2019 · Asociado con IO Digital X</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de un sistema de métricas y cuadros de mando para una plataforma de gestión de facturación y comisiones del sector energético. El proyecto estuvo orientado a proporcionar una visión consolidada de los principales indicadores de negocio, permitiendo a los responsables de la organización realizar un seguimiento más eficiente de la actividad comercial y financiera.
 
 **Objetivo:** Facilitar la toma de decisiones mediante el acceso centralizado a información clave sobre contratos, facturación, comisiones, rendimiento comercial y evolución de los distintos procesos gestionados por la plataforma.
@@ -1793,6 +2023,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Gestión de Facturación</b> · <i>3 meses de duración</i></summary>
 
+<sub>ene. 2019 - mar. 2019 · Asociado con IO Digital X</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de funcionalidades de gestión de facturación para una plataforma del sector energético orientada a la administración de contratos, consumos, liquidaciones y procesos económicos asociados a clientes y colaboradores comerciales. El proyecto estuvo enfocado en mejorar la automatización de los procesos de facturación y aumentar la fiabilidad de la información financiera gestionada por la organización.
 
 **Objetivo:** Optimizar los procesos relacionados con la generación, consulta y seguimiento de información de facturación, reduciendo tareas manuales y mejorando la consistencia de los datos utilizados en los procesos administrativos y financieros.
@@ -1811,6 +2043,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Cálculo de Comisiones y Contratos</b> · <i>4 meses de duración</i></summary>
+
+<sub>sept. 2018 - dic. 2018 · Asociado con IO Digital X</sub>
 
 **Resumen:** Participé en el diseño y desarrollo de un módulo para la gestión de contratos y cálculo de comisiones dentro de una plataforma del sector energético. Este proyecto constituyó la base funcional sobre la que posteriormente se desarrollaron los módulos de facturación, reporting y cuadros de mando, permitiendo centralizar la información comercial y automatizar procesos clave para la organización.
 
@@ -1834,6 +2068,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Seguimiento de Instalaciones Fotovoltaicas</b> · <i>3 meses de duración</i></summary>
 
+<sub>jul. 2018 - sept. 2018 · Asociado con INECO</sub>
+
 **Resumen:** Participé en el desarrollo de funcionalidades para el seguimiento y control de instalaciones fotovoltaicas dentro de una plataforma orientada a la gestión de activos energéticos. El proyecto estuvo enfocado en proporcionar una visión centralizada del estado de las instalaciones, facilitando el acceso a información técnica y administrativa relevante para su supervisión y mantenimiento.
 
 **Objetivo:** Mejorar la trazabilidad y el control de las instalaciones fotovoltaicas mediante herramientas que permitieran consultar información actualizada sobre activos, ubicaciones, estados operativos y documentación asociada.
@@ -1853,6 +2089,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Gestión de Expedientes</b> · <i>2 meses de duración</i></summary>
 
+<sub>may. 2018 - jun. 2018 · Asociado con INECO</sub>
+
 **Resumen:** Participé en el desarrollo de funcionalidades para la gestión de expedientes dentro de una plataforma orientada a la administración de proyectos relacionados con suelos e instalaciones fotovoltaicas. El proyecto estuvo enfocado en centralizar la información administrativa y técnica asociada a los distintos expedientes gestionados durante el ciclo de vida de los proyectos.
 
 **Objetivo:** Facilitar la organización, seguimiento y consulta de la documentación y los trámites asociados a proyectos fotovoltaicos, mejorando la trazabilidad de la información y reduciendo la complejidad de los procesos administrativos.
@@ -1871,6 +2109,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Inventario de Terrenos</b> · <i>3 meses de duración</i></summary>
+
+<sub>feb. 2018 - abr. 2018 · Asociado con INECO</sub>
 
 **Resumen:** Participé en el diseño y desarrollo de un sistema de inventario de terrenos destinado a apoyar la gestión de proyectos relacionados con instalaciones fotovoltaicas. Este proyecto constituyó la base funcional sobre la que posteriormente se desarrollaron los módulos de gestión de expedientes y seguimiento de instalaciones, permitiendo centralizar la información asociada a los emplazamientos potenciales y activos gestionados por la organización.
 
@@ -1894,6 +2134,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Optimización de Rendimiento</b> · <i>5 meses de duración</i></summary>
 
+<sub>sept. 2017 - ene. 2018 · Asociado con GRUPO J2INGENIEROS</sub>
+
 **Resumen:** Participé en un proyecto de optimización de rendimiento de una plataforma de monitorización energética utilizada para la supervisión y análisis de consumos eléctricos en instalaciones industriales y edificios. El proyecto estuvo orientado a mejorar la velocidad de respuesta de la aplicación, optimizar el tratamiento de grandes volúmenes de información y aumentar la capacidad de escalabilidad de la solución.
 
 **Objetivo:** Incrementar el rendimiento general de la plataforma, reducir tiempos de carga y procesamiento de información, optimizar consultas a bases de datos y mejorar la experiencia de usuario en escenarios con grandes cantidades de datos históricos y mediciones en tiempo real.
@@ -1912,6 +2154,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Sistema de Alertas Energéticas</b> · <i>7 meses de duración</i></summary>
+
+<sub>feb. 2017 - ago. 2017 · Asociado con GRUPO J2INGENIEROS</sub>
 
 **Resumen:** Participé en el diseño y desarrollo de un sistema de alertas energéticas integrado dentro de una plataforma de monitorización y gestión de consumos eléctricos. El proyecto estuvo orientado a detectar automáticamente situaciones anómalas en las instalaciones monitorizadas y notificar a los usuarios responsables para facilitar una actuación rápida y eficiente.
 
@@ -1932,6 +2176,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Cuadros de Mando Energéticos</b> · <i>5 meses de duración</i></summary>
 
+<sub>sept. 2016 - ene. 2017 · Asociado con GRUPO J2INGENIEROS</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de cuadros de mando energéticos para una plataforma de monitorización y análisis de consumos eléctricos utilizada en entornos industriales, terciarios y de servicios. El proyecto estuvo orientado a transformar grandes volúmenes de datos energéticos en información visual clara y útil para facilitar la toma de decisiones por parte de gestores energéticos, responsables de mantenimiento y equipos directivos.
 
 **Objetivo:** Proporcionar una visión global y centralizada del comportamiento energético de las instalaciones monitorizadas, permitiendo identificar tendencias, desviaciones, oportunidades de ahorro y áreas susceptibles de mejora en términos de eficiencia energética.
@@ -1950,6 +2196,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Informes Históricos de Consumo</b> · <i>6 meses de duración</i></summary>
+
+<sub>mar. 2016 - ago. 2016 · Asociado con GRUPO J2INGENIEROS</sub>
 
 **Resumen:** Participé en el diseño y desarrollo de un sistema de informes históricos de consumo integrado en una plataforma de monitorización energética utilizada para supervisar instalaciones industriales, edificios y centros de servicios. El proyecto estuvo orientado a proporcionar herramientas avanzadas de consulta y análisis de información histórica para facilitar la evaluación del comportamiento energético a medio y largo plazo.
 
@@ -1970,6 +2218,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Gestión Avanzada de Contadores</b> · <i>7 meses de duración</i></summary>
 
+<sub>ago. 2015 - feb. 2016 · Asociado con GRUPO J2INGENIEROS</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de funcionalidades avanzadas para la gestión de contadores energéticos dentro de una plataforma de monitorización utilizada en instalaciones industriales, edificios y centros de servicios. El proyecto estuvo orientado a mejorar la administración de dispositivos de medida, optimizar la recopilación de información energética y facilitar la supervisión centralizada de múltiples puntos de consumo.
 
 **Objetivo:** Proporcionar herramientas que permitieran gestionar de forma eficiente el ciclo de vida de los contadores energéticos, garantizar la calidad de los datos recopilados y facilitar la explotación de la información generada por los distintos dispositivos de medida conectados a la plataforma.
@@ -1988,6 +2238,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Sincronización de Datos mediante AJAX</b> · <i>5 meses de duración</i></summary>
+
+<sub>mar. 2015 - jul. 2015 · Asociado con GRUPO J2INGENIEROS</sub>
 
 **Resumen:** Participé en el diseño e implementación de mecanismos de sincronización de datos mediante AJAX dentro de una plataforma de monitorización energética utilizada para supervisar consumos eléctricos y parámetros operativos en tiempo real. El proyecto estuvo orientado a mejorar la fluidez de la experiencia de usuario y optimizar la actualización de información sin necesidad de recargar completamente las páginas de la aplicación.
 
@@ -2008,6 +2260,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Supervisión de Parámetros Eléctricos</b> · <i>6 meses de duración</i></summary>
 
+<sub>sept. 2014 - feb. 2015 · Asociado con GRUPO J2INGENIEROS</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de un sistema de supervisión de parámetros eléctricos integrado en una plataforma de monitorización energética orientada a instalaciones industriales, edificios corporativos y centros de servicios. El proyecto estuvo enfocado en proporcionar visibilidad en tiempo real sobre el comportamiento eléctrico de las instalaciones, facilitando la detección de incidencias y el análisis de la calidad del suministro energético.
 
 **Objetivo:** Permitir la supervisión continua de parámetros eléctricos críticos mediante la recopilación, almacenamiento y visualización de información procedente de equipos de medida distribuidos en diferentes instalaciones, contribuyendo a mejorar el control operativo y la eficiencia energética.
@@ -2026,6 +2280,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Análisis de Consumos</b> · <i>7 meses de duración</i></summary>
+
+<sub>feb. 2014 - ago. 2014 · Asociado con GRUPO J2INGENIEROS</sub>
 
 **Resumen:** Participé en el diseño y desarrollo de funcionalidades de análisis de consumos energéticos dentro de una plataforma de monitorización utilizada para supervisar instalaciones industriales, edificios corporativos y centros de servicios. El proyecto estuvo orientado a transformar los datos recopilados por los sistemas de medición en información útil para la identificación de patrones de consumo y oportunidades de mejora energética.
 
@@ -2046,6 +2302,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Visualización en Tiempo Real</b> · <i>5 meses de duración</i></summary>
 
+<sub>sept. 2013 - ene. 2014 · Asociado con GRUPO J2INGENIEROS</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de funcionalidades de visualización en tiempo real para una plataforma de monitorización energética orientada a la supervisión de instalaciones industriales, edificios corporativos y centros de servicios. El proyecto estuvo enfocado en proporcionar acceso inmediato a la información procedente de sistemas de medición eléctrica, facilitando la observación continua del comportamiento energético de las instalaciones monitorizadas.
 
 **Objetivo:** Permitir a los usuarios visualizar información actualizada de manera continua, facilitando la detección temprana de incidencias, el seguimiento de consumos energéticos y la supervisión operativa de instalaciones mediante herramientas gráficas accesibles y de fácil interpretación.
@@ -2064,6 +2322,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Gestión de Circuitos Eléctricos</b> · <i>6 meses de duración</i></summary>
+
+<sub>mar. 2013 - ago. 2013 · Asociado con GRUPO J2INGENIEROS</sub>
 
 **Resumen:** Participé en el diseño y desarrollo de un módulo para la gestión de circuitos eléctricos dentro de una plataforma de monitorización energética destinada a instalaciones industriales, edificios corporativos y centros de servicios. El proyecto estuvo orientado a estructurar y organizar la información eléctrica de las instalaciones monitorizadas, permitiendo representar de forma lógica los distintos circuitos y sus relaciones con equipos de medida y sistemas de supervisión.
 
@@ -2084,6 +2344,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 <details>
 <summary><b>Captura de Datos Energéticos</b> · <i>7 meses de duración</i></summary>
 
+<sub>ago. 2012 - feb. 2013 · Asociado con GRUPO J2INGENIEROS</sub>
+
 **Resumen:** Participé en el diseño y desarrollo de un sistema de captura de datos energéticos destinado a recopilar, almacenar y procesar información procedente de dispositivos de medida instalados en infraestructuras industriales y edificios. El proyecto estuvo orientado a establecer una base sólida para la monitorización energética, garantizando la disponibilidad y fiabilidad de los datos utilizados posteriormente por los módulos de análisis, supervisión y reporting.
 
 **Objetivo:** Implementar mecanismos eficientes para la recopilación automática de información energética, permitiendo centralizar los datos generados por diferentes equipos de medida y proporcionar una fuente única de información para la plataforma de monitorización.
@@ -2102,6 +2364,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 <details>
 <summary><b>Arquitectura Inicial Plataforma</b> · <i>5 meses de duración</i></summary>
+
+<sub>mar. 2012 - jul. 2012 · Asociado con GRUPO J2INGENIEROS</sub>
 
 **Resumen:** Participé en el diseño y desarrollo de la arquitectura inicial de una plataforma de monitorización energética destinada a recopilar, gestionar y analizar información procedente de sistemas de medición eléctrica. Este proyecto constituyó el punto de partida sobre el que posteriormente se construyeron los módulos de captura de datos, gestión de circuitos, visualización en tiempo real, análisis de consumos, reporting y cuadros de mando energéticos.
 
