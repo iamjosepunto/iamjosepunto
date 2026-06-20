@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-iamjosepunto.github.io-FFC400?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamjosepunto.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamjosepunto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamjosepunto) [![Email](https://img.shields.io/badge/Email-iamjosepunto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamjosepunto@gmail.com)
 
-### 🇬🇧 [English](#english) · 🇪🇸 [Español](#espanol)
+### <img src="https://iamjosepunto.github.io/Bandera_En.jpg" alt="EN" height="16" style="vertical-align:middle"/> [English](#english) · <img src="https://iamjosepunto.github.io/Bandera_Es.jpg" alt="ES" height="16" style="vertical-align:middle"/> [Español](#espanol)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <a id="english"></a>
 
-<div align="center"><h2>🇬🇧 English</h2></div>
+<div align="center"><h2><img src="https://iamjosepunto.github.io/Bandera_En.jpg" alt="EN" height="22" style="vertical-align:middle"/> English</h2></div>
 
 ## Index
 
@@ -1236,8 +1236,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 | Language | Level |
 |---|---|
-| **English** | Full professional proficiency |
-| **Spanish** | Native or bilingual proficiency |
+| <img src="https://iamjosepunto.github.io/Bandera_En.jpg" alt="English" height="14" style="vertical-align:middle"/> **English** | Full professional proficiency |
+| <img src="https://iamjosepunto.github.io/Bandera_Es.jpg" alt="Spanish" height="14" style="vertical-align:middle"/> **Spanish** | Native or bilingual proficiency |
 
 <a id="skills-en"></a>
 
@@ -1362,7 +1362,7 @@ Let's talk? You can reach me through these channels.
 
 <a id="espanol"></a>
 
-<div align="center"><h2>🇪🇸 Español</h2></div>
+<div align="center"><h2><img src="https://iamjosepunto.github.io/Bandera_Es.jpg" alt="ES" height="22" style="vertical-align:middle"/> Español</h2></div>
 
 ## Índice
 
@@ -2582,8 +2582,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 | Idioma | Nivel |
 |---|---|
-| **Inglés** | Competencia profesional completa |
-| **Español** | Competencia bilingüe o nativa |
+| <img src="https://iamjosepunto.github.io/Bandera_En.jpg" alt="Inglés" height="14" style="vertical-align:middle"/> **Inglés** | Competencia profesional completa |
+| <img src="https://iamjosepunto.github.io/Bandera_Es.jpg" alt="Español" height="14" style="vertical-align:middle"/> **Español** | Competencia bilingüe o nativa |
 
 <a id="habilidades-es"></a>
 
