@@ -51,7 +51,7 @@
 | **Nationality** | Spanish |
 | **Resident in** | Toledo, Spain (Europe) |
 | **Complete CV** | [https://iamjosepunto.github.io](https://iamjosepunto.github.io) |
-| **Email** | [iamjosepunto@gmail.com](mailto:iamjosepunto@gmail.com) |
+| **Email** | `iamjosepunto@gmail.com` |
 | **Contact method** | Preferably email |
 | **Availability** | Employed, open to a change |
 | **Desired work mode** | Remote or hybrid |
@@ -1346,7 +1346,7 @@ Let's talk? You can reach me through these channels.
 
 | | |
 |---|---|
-| **Email** | [iamjosepunto@gmail.com](mailto:iamjosepunto@gmail.com) |
+| **Email** | `iamjosepunto@gmail.com` |
 | **LinkedIn** | [linkedin.com/in/iamjosepunto](https://linkedin.com/in/iamjosepunto) |
 | **GitHub** | [github.com/iamjosepunto](https://github.com/iamjosepunto) |
 | **Portfolio** | [iamjosepunto.github.io](https://iamjosepunto.github.io/) |
@@ -1397,7 +1397,7 @@ Let's talk? You can reach me through these channels.
 | **Nacionalidad** | Española |
 | **Residente en** | Toledo, España (Europa) |
 | **CV completo** | [https://iamjosepunto.github.io](https://iamjosepunto.github.io) |
-| **Email** | [iamjosepunto@gmail.com](mailto:iamjosepunto@gmail.com) |
+| **Email** | `iamjosepunto@gmail.com` |
 | **Método de contacto** | Preferiblemente email |
 | **Disponibilidad** | Trabajando, abierto a un cambio |
 | **Modo de trabajo deseado** | Teletrabajo o híbrido |
@@ -2692,7 +2692,7 @@ Vivo en Toledo capital (España-Europa), una de las ciudades medievales más bon
 
 | | |
 |---|---|
-| **Email** | [iamjosepunto@gmail.com](mailto:iamjosepunto@gmail.com) |
+| **Email** | `iamjosepunto@gmail.com` |
 | **LinkedIn** | [linkedin.com/in/iamjosepunto](https://linkedin.com/in/iamjosepunto) |
 | **GitHub** | [github.com/iamjosepunto](https://github.com/iamjosepunto) |
 | **Portfolio** | [iamjosepunto.github.io](https://iamjosepunto.github.io/) |
