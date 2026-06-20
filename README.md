@@ -1335,7 +1335,7 @@ Unity 6 (native) [A] · Android Studio [M]
 
 Click this button to download my bilingual summary curriculum.
 
-[![Download CV](https://img.shields.io/badge/⬇️_Download_CV-FFC400?style=for-the-badge)](https://iamjosepunto.github.io/)
+[![Download CV](https://img.shields.io/badge/⬇️_Download_CV-FFC400?style=for-the-badge)](https://iamjosepunto.github.io/Summary_CV_Jose%20._June_2026_En-Es.pdf)
 
 <a id="location-en"></a>
 
@@ -2691,7 +2691,7 @@ Unity 6 (native) [A] · Android Studio [M]
 
 Pulsa este botón para descargar mi currículum resumido y bilingüe.
 
-[![Descargar CV](https://img.shields.io/badge/⬇️_Descargar_CV-FFC400?style=for-the-badge)](https://iamjosepunto.github.io/)
+[![Descargar CV](https://img.shields.io/badge/⬇️_Descargar_CV-FFC400?style=for-the-badge)](https://iamjosepunto.github.io/Summary_CV_Jose%20._June_2026_En-Es.pdf)
 
 <a id="ubicacin-es"></a>
 
