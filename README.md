@@ -6,7 +6,7 @@
 
 **Industrial Engineer (completed)** · **Senior Full Stack .NET Developer** · **AI & Software Automation**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-iamjosepunto.github.io-FFC400?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamjosepunto.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamjosepunto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamjosepunto) [![Email](https://img.shields.io/badge/Email-iamjosepunto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamjosepunto@gmail.com)
+[![Web](https://img.shields.io/badge/Web-iamjosepunto.github.io-FFC400?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamjosepunto.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamjosepunto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamjosepunto) [![Email](https://img.shields.io/badge/Email-iamjosepunto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamjosepunto@gmail.com)
 
 ### <img src="https://iamjosepunto.github.io/Bandera_En.jpg" alt="EN" height="16" style="vertical-align:middle"/> [English](#english) · <img src="https://iamjosepunto.github.io/Bandera_Es.jpg" alt="ES" height="16" style="vertical-align:middle"/> [Español](#espanol)
 
