@@ -252,62 +252,66 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 ### PROJECTS SUMMARY
 
-- **E100-P100-PERSONAL PORTFOLIO**
-  - T001 — Personal Portfolio
+- **[E100-P100-PERSONAL PORTFOLIO](#e100-p100-en)**
+  - [T001 — Personal Portfolio](#e100-p100-t001-en)
 
-- **E011-P006-CALIBRATION MANAGEMENT**
-  - T010 — AI-Based Internal Technical Assistant
-  - T009 — Automatic Technical Documentation Generation
-  - T008 — Automation with Generative AI
-  - T007 — REST API Optimization
-  - T006 — React + TypeScript Migration
-  - T005 — Operational Dashboard
-  - T004 — Document Management
-  - T003 — Client Portal
-  - T002 — Maintenance & Calibration Management
-  - T001 — Measurement Equipment Inventory
+- **[E011-P006-CALIBRATION MANAGEMENT](#e011-p006-en)**
+  - [T010 — AI-Based Internal Technical Assistant](#e011-p006-t010-en)
+  - [T009 — Automatic Technical Documentation Generation](#e011-p006-t009-en)
+  - [T008 — Automation with Generative AI](#e011-p006-t008-en)
+  - [T007 — REST API Optimization](#e011-p006-t007-en)
+  - [T006 — React + TypeScript Migration](#e011-p006-t006-en)
+  - [T005 — Operational Dashboard](#e011-p006-t005-en)
+  - [T004 — Document Management](#e011-p006-t004-en)
+  - [T003 — Client Portal](#e011-p006-t003-en)
+  - [T002 — Maintenance & Calibration Management](#e011-p006-t002-en)
+  - [T001 — Measurement Equipment Inventory](#e011-p006-t001-en)
 
-- **E011-P005-MOBILE INSPECTION APP**
-  - T005 — Field Data Capture
-  - T004 — Offline/Online Synchronization
-  - T003 — Photographic Evidence Management
-  - T002 — Dynamic Inspection Forms
-  - T001 — Mobile Foundation for Field Technicians
+- **[E011-P005-MOBILE INSPECTION APP](#e011-p005-en)**
+  - [T005 — Field Data Capture](#e011-p005-t005-en)
+  - [T004 — Offline/Online Synchronization](#e011-p005-t004-en)
+  - [T003 — Photographic Evidence Management](#e011-p005-t003-en)
+  - [T002 — Dynamic Inspection Forms](#e011-p005-t002-en)
+  - [T001 — Mobile Foundation for Field Technicians](#e011-p005-t001-en)
 
-- **E010-P004-DRONE PILOT CERTIFICATION**
-  - T004 — UX & Case File Optimization
-  - T003 — Automatic PDF Certificate Generation
-  - T002 — Pilot Document Management
-  - T001 — Pilot Registration & Validation
+- **[E010-P004-DRONE PILOT CERTIFICATION](#e010-p004-en)**
+  - [T004 — UX & Case File Optimization](#e010-p004-t004-en)
+  - [T003 — Automatic PDF Certificate Generation](#e010-p004-t003-en)
+  - [T002 — Pilot Document Management](#e010-p004-t002-en)
+  - [T001 — Pilot Registration & Validation](#e010-p004-t001-en)
 
-- **E009-P003-ENERGY BILLING & COMMISSIONS**
-  - T003 — Metrics & Dashboards
-  - T002 — Billing Management
-  - T001 — Commission & Contract Calculation
+- **[E009-P003-ENERGY BILLING & COMMISSIONS](#e009-p003-en)**
+  - [T003 — Metrics & Dashboards](#e009-p003-t003-en)
+  - [T002 — Billing Management](#e009-p003-t002-en)
+  - [T001 — Commission & Contract Calculation](#e009-p003-t001-en)
 
-- **E008-P002-PHOTOVOLTAIC LAND MANAGEMENT**
-  - T003 — Photovoltaic Installation Tracking
-  - T002 — Case File Management
-  - T001 — Land Inventory
+- **[E008-P002-PHOTOVOLTAIC LAND MANAGEMENT](#e008-p002-en)**
+  - [T003 — Photovoltaic Installation Tracking](#e008-p002-t003-en)
+  - [T002 — Case File Management](#e008-p002-t002-en)
+  - [T001 — Land Inventory](#e008-p002-t001-en)
 
-- **E007-P001-ENERGY MONITORING**
-  - T012 — Performance Optimization
-  - T011 — Energy Alert System
-  - T010 — Energy Dashboards
-  - T009 — Historical Consumption Reports
-  - T008 — Advanced Meter Management
-  - T007 — Data Synchronization via AJAX
-  - T006 — Electrical Parameter Monitoring
-  - T005 — Consumption Analysis
-  - T004 — Real-Time Visualization
-  - T003 — Electrical Circuit Management
-  - T002 — Energy Data Capture
-  - T001 — Initial Platform Architecture
+- **[E007-P001-ENERGY MONITORING](#e007-p001-en)**
+  - [T012 — Performance Optimization](#e007-p001-t012-en)
+  - [T011 — Energy Alert System](#e007-p001-t011-en)
+  - [T010 — Energy Dashboards](#e007-p001-t010-en)
+  - [T009 — Historical Consumption Reports](#e007-p001-t009-en)
+  - [T008 — Advanced Meter Management](#e007-p001-t008-en)
+  - [T007 — Data Synchronization via AJAX](#e007-p001-t007-en)
+  - [T006 — Electrical Parameter Monitoring](#e007-p001-t006-en)
+  - [T005 — Consumption Analysis](#e007-p001-t005-en)
+  - [T004 — Real-Time Visualization](#e007-p001-t004-en)
+  - [T003 — Electrical Circuit Management](#e007-p001-t003-en)
+  - [T002 — Energy Data Capture](#e007-p001-t002-en)
+  - [T001 — Initial Platform Architecture](#e007-p001-t001-en)
 
 ---
 
+<a id="e100-p100-en"></a>
+
 ### E100 - P100 - Personal Portfolio  
 <sub>may. 2026 - actualidad · Proyecto Personal</sub>
+
+<a id="e100-p100-t001-en"></a>
 
 <details>
 <summary><b>E100 - P100 - T001</b> · Personal Portfolio · <i>Still in development</i></summary>
@@ -332,8 +336,12 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e011-p006-en"></a>
+
 ### E011 - P006 - Calibration Management  
 <sub>abr. 2022 - actualidad · Grupo de Empresas Tecnológicas</sub>
+
+<a id="e011-p006-t010-en"></a>
 
 <details>
 <summary><b>E011 - P006 - T010</b> · AI-Based Internal Technical Assistant · <i>Still in development</i></summary>
@@ -356,6 +364,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e011-p006-t009-en"></a>
+
 <details>
 <summary><b>E011 - P006 - T009</b> · Automatic Technical Documentation Generation · <i>4 months</i></summary>
 
@@ -376,6 +386,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** TypeScript · Process automation · Generative AI · ASP.NET Core · ASP.NET Web API · ChatGPT · Full Stack development · React.js · Technical documentation · C# · Anthropic Claude
 
 </details>
+
+<a id="e011-p006-t008-en"></a>
 
 <details>
 <summary><b>E011 - P006 - T008</b> · Automation with Generative AI · <i>5 months</i></summary>
@@ -398,6 +410,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e011-p006-t007-en"></a>
+
 <details>
 <summary><b>E011 - P006 - T007</b> · REST API Optimization · <i>6 months</i></summary>
 
@@ -418,6 +432,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** TypeScript · ASP.NET Core · ASP.NET Web API · Backend web development · Software architecture · Full Stack development · Performance optimization · React.js · MongoDB · C#
 
 </details>
+
+<a id="e011-p006-t006-en"></a>
 
 <details>
 <summary><b>E011 - P006 - T006</b> · React + TypeScript Migration · <i>6 months</i></summary>
@@ -440,6 +456,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e011-p006-t005-en"></a>
+
 <details>
 <summary><b>E011 - P006 - T005</b> · Operational Dashboard · <i>5 months</i></summary>
 
@@ -460,6 +478,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** ASP.NET Core · ASP.NET Web API · Full Stack development · Data modeling · React.js · MongoDB · C#
 
 </details>
+
+<a id="e011-p006-t004-en"></a>
 
 <details>
 <summary><b>E011 - P006 - T004</b> · Document Management · <i>4 months</i></summary>
@@ -482,6 +502,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e011-p006-t003-en"></a>
+
 <details>
 <summary><b>E011 - P006 - T003</b> · Client Portal · <i>5 months</i></summary>
 
@@ -502,6 +524,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** ASP.NET Core · ASP.NET Web API · Web development · Full Stack development · React.js · MongoDB · C# · User Experience (UX)
 
 </details>
+
+<a id="e011-p006-t002-en"></a>
 
 <details>
 <summary><b>E011 - P006 - T002</b> · Maintenance & Calibration Management · <i>6 months</i></summary>
@@ -524,6 +548,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e011-p006-t001-en"></a>
+
 <details>
 <summary><b>E011 - P006 - T001</b> · Measurement Equipment Inventory · <i>6 months</i></summary>
 
@@ -545,8 +571,12 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e011-p005-en"></a>
+
 ### E011 - P005 - Mobile Inspection App  
 <sub>sept. 2020 - mar. 2022 · Grupo de Empresas Tecnológicas</sub>
+
+<a id="e011-p005-t005-en"></a>
 
 <details>
 <summary><b>E011 - P005 - T005</b> · Field Data Capture · <i>5 months</i></summary>
@@ -569,6 +599,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e011-p005-t004-en"></a>
+
 <details>
 <summary><b>E011 - P005 - T004</b> · Offline/Online Synchronization · <i>4 months</i></summary>
 
@@ -589,6 +621,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** JSON · Mobile development · ASP.NET Web API · Software architecture · Full Stack development · Data modeling · C# · Unity · MongoDB
 
 </details>
+
+<a id="e011-p005-t003-en"></a>
 
 <details>
 <summary><b>E011 - P005 - T003</b> · Photographic Evidence Management · <i>4 months</i></summary>
@@ -611,6 +645,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e011-p005-t002-en"></a>
+
 <details>
 <summary><b>E011 - P005 - T002</b> · Dynamic Inspection Forms · <i>4 months</i></summary>
 
@@ -631,6 +667,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** Process automation · Mobile development · ASP.NET Web API · Full Stack development · Data modeling · C# · User Experience (UX) · Unity · MongoDB
 
 </details>
+
+<a id="e011-p005-t001-en"></a>
 
 <details>
 <summary><b>E011 - P005 - T001</b> · Mobile Foundation for Field Technicians · <i>2 months</i></summary>
@@ -653,8 +691,12 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e010-p004-en"></a>
+
 ### E010 - P004 - Drone Pilot Certification  
 <sub>jun. 2019 - ago. 2020 · Unisys</sub>
+
+<a id="e010-p004-t004-en"></a>
 
 <details>
 <summary><b>E010 - P004 - T004</b> · UX & Case File Optimization · <i>4 months</i></summary>
@@ -677,6 +719,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e010-p004-t003-en"></a>
+
 <details>
 <summary><b>E010 - P004 - T003</b> · Automatic PDF Certificate Generation · <i>5 months</i></summary>
 
@@ -697,6 +741,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** JavaScript · Process automation · Blazor · ASP.NET MVC · SQL · Web development · Backend web development · ASP.NET Razor · Full Stack development · Document management · C#
 
 </details>
+
+<a id="e010-p004-t002-en"></a>
 
 <details>
 <summary><b>E010 - P004 - T002</b> · Pilot Document Management · <i>3 months</i></summary>
@@ -719,6 +765,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e010-p004-t001-en"></a>
+
 <details>
 <summary><b>E010 - P004 - T001</b> · Pilot Registration & Validation · <i>3 months</i></summary>
 
@@ -740,8 +788,12 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e009-p003-en"></a>
+
 ### E009 - P003 - Energy Billing & Commissions  
 <sub>sept. 2018 - jun. 2019 · IO Digital X</sub>
+
+<a id="e009-p003-t003-en"></a>
 
 <details>
 <summary><b>E009 - P003 - T003</b> · Metrics & Dashboards · <i>3 months</i></summary>
@@ -764,6 +816,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e009-p003-t002-en"></a>
+
 <details>
 <summary><b>E009 - P003 - T002</b> · Billing Management · <i>3 months</i></summary>
 
@@ -784,6 +838,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** JavaScript · Process automation · ASP.NET MVC · ASP.NET Web API · SQL · Web development · Full Stack development · Document management · React.js · C#
 
 </details>
+
+<a id="e009-p003-t001-en"></a>
 
 <details>
 <summary><b>E009 - P003 - T001</b> · Commission & Contract Calculation · <i>4 months</i></summary>
@@ -806,8 +862,12 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e008-p002-en"></a>
+
 ### E008 - P002 - Photovoltaic Land Management  
 <sub>feb. 2018 - sept. 2018 · INECO</sub>
+
+<a id="e008-p002-t003-en"></a>
 
 <details>
 <summary><b>E008 - P002 - T003</b> · Photovoltaic Installation Tracking · <i>3 months</i></summary>
@@ -830,6 +890,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e008-p002-t002-en"></a>
+
 <details>
 <summary><b>E008 - P002 - T002</b> · Case File Management · <i>2 months</i></summary>
 
@@ -850,6 +912,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** JavaScript · Process automation · ASP.NET MVC · SQL · Web development · Full Stack development · Document management · React.js · Technical documentation · C#
 
 </details>
+
+<a id="e008-p002-t001-en"></a>
 
 <details>
 <summary><b>E008 - P002 - T001</b> · Land Inventory · <i>3 months</i></summary>
@@ -872,8 +936,12 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e007-p001-en"></a>
+
 ### E007 - P001 - Energy Monitoring  
 <sub>mar. 2012 - ene. 2018 · GRUPO J2INGENIEROS</sub>
+
+<a id="e007-p001-t012-en"></a>
 
 <details>
 <summary><b>E007 - P001 - T012</b> · Performance Optimization · <i>5 months</i></summary>
@@ -896,6 +964,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e007-p001-t011-en"></a>
+
 <details>
 <summary><b>E007 - P001 - T011</b> · Energy Alert System · <i>7 months</i></summary>
 
@@ -916,6 +986,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** JavaScript · Process automation · ASP.NET MVC · SQL · Web development · Full Stack development · Data modeling · C#
 
 </details>
+
+<a id="e007-p001-t010-en"></a>
 
 <details>
 <summary><b>E007 - P001 - T010</b> · Energy Dashboards · <i>5 months</i></summary>
@@ -938,6 +1010,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e007-p001-t009-en"></a>
+
 <details>
 <summary><b>E007 - P001 - T009</b> · Historical Consumption Reports · <i>6 months</i></summary>
 
@@ -958,6 +1032,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** JavaScript · Process automation · ASP.NET MVC · SQL · Web development · Full Stack development · Document management · C#
 
 </details>
+
+<a id="e007-p001-t008-en"></a>
 
 <details>
 <summary><b>E007 - P001 - T008</b> · Advanced Meter Management · <i>7 months</i></summary>
@@ -980,6 +1056,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e007-p001-t007-en"></a>
+
 <details>
 <summary><b>E007 - P001 - T007</b> · Data Synchronization via AJAX · <i>5 months</i></summary>
 
@@ -1000,6 +1078,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** JavaScript · Process automation · ASP.NET MVC · SQL · Web development · AJAX · Full Stack development · Front-End development · C#
 
 </details>
+
+<a id="e007-p001-t006-en"></a>
 
 <details>
 <summary><b>E007 - P001 - T006</b> · Electrical Parameter Monitoring · <i>6 months</i></summary>
@@ -1022,6 +1102,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e007-p001-t005-en"></a>
+
 <details>
 <summary><b>E007 - P001 - T005</b> · Consumption Analysis · <i>7 months</i></summary>
 
@@ -1042,6 +1124,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** Database development · Process automation · ASP.NET MVC · SQL · Web development · Full Stack development · Data modeling · C#
 
 </details>
+
+<a id="e007-p001-t004-en"></a>
 
 <details>
 <summary><b>E007 - P001 - T004</b> · Real-Time Visualization · <i>5 months</i></summary>
@@ -1064,6 +1148,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e007-p001-t003-en"></a>
+
 <details>
 <summary><b>E007 - P001 - T003</b> · Electrical Circuit Management · <i>6 months</i></summary>
 
@@ -1085,6 +1171,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 
 </details>
 
+<a id="e007-p001-t002-en"></a>
+
 <details>
 <summary><b>E007 - P001 - T002</b> · Energy Data Capture · <i>7 months</i></summary>
 
@@ -1105,6 +1193,8 @@ Within Iberdrola, in the Electrical Substations department, I carried out the fo
 **Skills:** JavaScript · ASP.NET MVC · SQL · Web development · Software Systems Engineering · Full Stack development · Data modeling · C#
 
 </details>
+
+<a id="e007-p001-t001-en"></a>
 
 <details>
 <summary><b>E007 - P001 - T001</b> · Initial Platform Architecture · <i>5 months</i></summary>
@@ -1508,62 +1598,66 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 ### RESUMEN DE PROYECTOS
 
-- **E100-P100-PORTFOLIO PERSONAL**
-  - T001 — Portfolio Personal
+- **[E100-P100-PORTFOLIO PERSONAL](#e100-p100-es)**
+  - [T001 — Portfolio Personal](#e100-p100-t001-es)
 
-- **E011-P006-GESTIÓN DE CALIBRACIONES**
-  - T010 — Asistente Técnico Interno Basado en IA
-  - T009 — Generación Automática de Documentación Técnica
-  - T008 — Automatización con IA Generativa
-  - T007 — Optimización de APIs REST
-  - T006 — Migración React + TypeScript
-  - T005 — Dashboard Operacional
-  - T004 — Gestión Documental
-  - T003 — Portal de Clientes
-  - T002 — Gestión de Mantenimientos y Calibraciones
-  - T001 — Inventario de Equipos de Medición
+- **[E011-P006-GESTIÓN DE CALIBRACIONES](#e011-p006-es)**
+  - [T010 — Asistente Técnico Interno Basado en IA](#e011-p006-t010-es)
+  - [T009 — Generación Automática de Documentación Técnica](#e011-p006-t009-es)
+  - [T008 — Automatización con IA Generativa](#e011-p006-t008-es)
+  - [T007 — Optimización de APIs REST](#e011-p006-t007-es)
+  - [T006 — Migración React + TypeScript](#e011-p006-t006-es)
+  - [T005 — Dashboard Operacional](#e011-p006-t005-es)
+  - [T004 — Gestión Documental](#e011-p006-t004-es)
+  - [T003 — Portal de Clientes](#e011-p006-t003-es)
+  - [T002 — Gestión de Mantenimientos y Calibraciones](#e011-p006-t002-es)
+  - [T001 — Inventario de Equipos de Medición](#e011-p006-t001-es)
 
-- **E011-P005-APLICACIÓN MOBILE DE INSPECCIÓN**
-  - T005 — Captura de Datos en Campo
-  - T004 — Sincronización Offline/Online
-  - T003 — Gestión de Evidencias Fotográficas
-  - T002 — Formularios Dinámicos de Inspección
-  - T001 — Base Mobile para Técnicos de Campo
+- **[E011-P005-APLICACIÓN MOBILE DE INSPECCIÓN](#e011-p005-es)**
+  - [T005 — Captura de Datos en Campo](#e011-p005-t005-es)
+  - [T004 — Sincronización Offline/Online](#e011-p005-t004-es)
+  - [T003 — Gestión de Evidencias Fotográficas](#e011-p005-t003-es)
+  - [T002 — Formularios Dinámicos de Inspección](#e011-p005-t002-es)
+  - [T001 — Base Mobile para Técnicos de Campo](#e011-p005-t001-es)
 
-- **E010-P004-CERTIFICACIÓN DE PILOTOS DE DRON**
-  - T004 — Optimización UX y Expedientes
-  - T003 — Generación Automática de Certificados PDF
-  - T002 — Gestión Documental de Pilotos
-  - T001 — Registro y Validación de Pilotos
+- **[E010-P004-CERTIFICACIÓN DE PILOTOS DE DRON](#e010-p004-es)**
+  - [T004 — Optimización UX y Expedientes](#e010-p004-t004-es)
+  - [T003 — Generación Automática de Certificados PDF](#e010-p004-t003-es)
+  - [T002 — Gestión Documental de Pilotos](#e010-p004-t002-es)
+  - [T001 — Registro y Validación de Pilotos](#e010-p004-t001-es)
 
-- **E009-P003-FACTURACIÓN Y COMISIONES ENERGÉTICAS**
-  - T003 — Métricas y Cuadros de Mando
-  - T002 — Gestión de Facturación
-  - T001 — Cálculo de Comisiones y Contratos
+- **[E009-P003-FACTURACIÓN Y COMISIONES ENERGÉTICAS](#e009-p003-es)**
+  - [T003 — Métricas y Cuadros de Mando](#e009-p003-t003-es)
+  - [T002 — Gestión de Facturación](#e009-p003-t002-es)
+  - [T001 — Cálculo de Comisiones y Contratos](#e009-p003-t001-es)
 
-- **E008-P002-GESTIÓN DE SUELOS FOTOVOLTAICOS**
-  - T003 — Seguimiento de Instalaciones Fotovoltaicas
-  - T002 — Gestión de Expedientes
-  - T001 — Inventario de Terrenos
+- **[E008-P002-GESTIÓN DE SUELOS FOTOVOLTAICOS](#e008-p002-es)**
+  - [T003 — Seguimiento de Instalaciones Fotovoltaicas](#e008-p002-t003-es)
+  - [T002 — Gestión de Expedientes](#e008-p002-t002-es)
+  - [T001 — Inventario de Terrenos](#e008-p002-t001-es)
 
-- **E007-P001-MONITORIZACIÓN ENERGÉTICA**
-  - T012 — Optimización de Rendimiento
-  - T011 — Sistema de Alertas Energéticas
-  - T010 — Cuadros de Mando Energéticos
-  - T009 — Informes Históricos de Consumo
-  - T008 — Gestión Avanzada de Contadores
-  - T007 — Sincronización de Datos mediante AJAX
-  - T006 — Supervisión de Parámetros Eléctricos
-  - T005 — Análisis de Consumos
-  - T004 — Visualización en Tiempo Real
-  - T003 — Gestión de Circuitos Eléctricos
-  - T002 — Captura de Datos Energéticos
-  - T001 — Arquitectura Inicial Plataforma
+- **[E007-P001-MONITORIZACIÓN ENERGÉTICA](#e007-p001-es)**
+  - [T012 — Optimización de Rendimiento](#e007-p001-t012-es)
+  - [T011 — Sistema de Alertas Energéticas](#e007-p001-t011-es)
+  - [T010 — Cuadros de Mando Energéticos](#e007-p001-t010-es)
+  - [T009 — Informes Históricos de Consumo](#e007-p001-t009-es)
+  - [T008 — Gestión Avanzada de Contadores](#e007-p001-t008-es)
+  - [T007 — Sincronización de Datos mediante AJAX](#e007-p001-t007-es)
+  - [T006 — Supervisión de Parámetros Eléctricos](#e007-p001-t006-es)
+  - [T005 — Análisis de Consumos](#e007-p001-t005-es)
+  - [T004 — Visualización en Tiempo Real](#e007-p001-t004-es)
+  - [T003 — Gestión de Circuitos Eléctricos](#e007-p001-t003-es)
+  - [T002 — Captura de Datos Energéticos](#e007-p001-t002-es)
+  - [T001 — Arquitectura Inicial Plataforma](#e007-p001-t001-es)
 
 ---
 
+<a id="e100-p100-es"></a>
+
 ### E100 - P100 - Portfolio Personal  
 <sub>may. 2026 - actualidad · Proyecto Personal</sub>
+
+<a id="e100-p100-t001-es"></a>
 
 <details>
 <summary><b>E100 - P100 - T001</b> · Portfolio Personal · <i>Todavía en desarrollo</i></summary>
@@ -1588,8 +1682,12 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e011-p006-es"></a>
+
 ### E011 - P006 - Gestión de Calibraciones  
 <sub>abr. 2022 - actualidad · Grupo de Empresas Tecnológicas</sub>
+
+<a id="e011-p006-t010-es"></a>
 
 <details>
 <summary><b>E011 - P006 - T010</b> · Asistente Técnico Interno Basado en IA · <i>Todavía en desarrollo</i></summary>
@@ -1612,6 +1710,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e011-p006-t009-es"></a>
+
 <details>
 <summary><b>E011 - P006 - T009</b> · Generación Automática de Documentación Técnica · <i>4 meses de duración</i></summary>
 
@@ -1632,6 +1732,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** TypeScript · Automatización de procesos · IA generativa · ASP.NET Core · ASP.NET Web API · ChatGPT · Desarrollo Full Stack · React.js · Documentación técnica · C# · Anthropic Claude
 
 </details>
+
+<a id="e011-p006-t008-es"></a>
 
 <details>
 <summary><b>E011 - P006 - T008</b> · Automatización con IA Generativa · <i>5 meses de duración</i></summary>
@@ -1654,6 +1756,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e011-p006-t007-es"></a>
+
 <details>
 <summary><b>E011 - P006 - T007</b> · Optimización de APIs REST · <i>6 meses de duración</i></summary>
 
@@ -1674,6 +1778,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** TypeScript · ASP.NET Core · ASP.NET Web API · Desarrollo web back end · Arquitectura de software · Desarrollo Full Stack · Optimización del rendimiento · React.js · MongoDB · C#
 
 </details>
+
+<a id="e011-p006-t006-es"></a>
 
 <details>
 <summary><b>E011 - P006 - T006</b> · Migración React + TypeScript · <i>6 meses de duración</i></summary>
@@ -1696,6 +1802,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e011-p006-t005-es"></a>
+
 <details>
 <summary><b>E011 - P006 - T005</b> · Dashboard Operacional · <i>5 meses de duración</i></summary>
 
@@ -1716,6 +1824,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** ASP.NET Core · ASP.NET Web API · Desarrollo Full Stack · Modelado de datos · React.js · MongoDB · C#
 
 </details>
+
+<a id="e011-p006-t004-es"></a>
 
 <details>
 <summary><b>E011 - P006 - T004</b> · Gestión Documental · <i>4 meses de duración</i></summary>
@@ -1738,6 +1848,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e011-p006-t003-es"></a>
+
 <details>
 <summary><b>E011 - P006 - T003</b> · Portal de Clientes · <i>5 meses de duración</i></summary>
 
@@ -1758,6 +1870,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** ASP.NET Core · ASP.NET Web API · Desarrollo web · Desarrollo Full Stack · React.js · MongoDB · C# · Experiencia de Usuario (UX)
 
 </details>
+
+<a id="e011-p006-t002-es"></a>
 
 <details>
 <summary><b>E011 - P006 - T002</b> · Gestión de Mantenimientos y Calibraciones · <i>6 meses de duración</i></summary>
@@ -1780,6 +1894,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e011-p006-t001-es"></a>
+
 <details>
 <summary><b>E011 - P006 - T001</b> · Inventario de Equipos de Medición · <i>6 meses de duración</i></summary>
 
@@ -1801,8 +1917,12 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e011-p005-es"></a>
+
 ### E011 - P005 - Aplicación Mobile de Inspección  
 <sub>sept. 2020 - mar. 2022 · Grupo de Empresas Tecnológicas</sub>
+
+<a id="e011-p005-t005-es"></a>
 
 <details>
 <summary><b>E011 - P005 - T005</b> · Captura de Datos en Campo · <i>5 meses de duración</i></summary>
@@ -1825,6 +1945,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e011-p005-t004-es"></a>
+
 <details>
 <summary><b>E011 - P005 - T004</b> · Sincronización Offline/Online · <i>4 meses de duración</i></summary>
 
@@ -1845,6 +1967,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** JSON · Desarrollo Mobile · ASP.NET Web API · Arquitectura de software · Desarrollo Full Stack · Modelado de datos · C# · Unity · MongoDB
 
 </details>
+
+<a id="e011-p005-t003-es"></a>
 
 <details>
 <summary><b>E011 - P005 - T003</b> · Gestión de Evidencias Fotográficas · <i>4 meses de duración</i></summary>
@@ -1867,6 +1991,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e011-p005-t002-es"></a>
+
 <details>
 <summary><b>E011 - P005 - T002</b> · Formularios Dinámicos de Inspección · <i>4 meses de duración</i></summary>
 
@@ -1887,6 +2013,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** Automatización de procesos · Desarrollo Mobile · ASP.NET Web API · Desarrollo Full Stack · Modelado de datos · C# · Experiencia de Usuario (UX) · Unity · MongoDB
 
 </details>
+
+<a id="e011-p005-t001-es"></a>
 
 <details>
 <summary><b>E011 - P005 - T001</b> · Base Mobile para Técnicos de Campo · <i>2 meses de duración</i></summary>
@@ -1909,8 +2037,12 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e010-p004-es"></a>
+
 ### E010 - P004 - Certificación de Pilotos de Dron  
 <sub>jun. 2019 - ago. 2020 · Unisys</sub>
+
+<a id="e010-p004-t004-es"></a>
 
 <details>
 <summary><b>E010 - P004 - T004</b> · Optimización UX y Expedientes · <i>4 meses de duración</i></summary>
@@ -1933,6 +2065,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e010-p004-t003-es"></a>
+
 <details>
 <summary><b>E010 - P004 - T003</b> · Generación Automática de Certificados PDF · <i>5 meses de duración</i></summary>
 
@@ -1953,6 +2087,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** JavaScript · Automatización de procesos · Blazor · ASP.NET MVC · SQL · Desarrollo web · Desarrollo web back end · ASP.NET Razor · Desarrollo Full Stack · Gestión documental · C#
 
 </details>
+
+<a id="e010-p004-t002-es"></a>
 
 <details>
 <summary><b>E010 - P004 - T002</b> · Gestión Documental de Pilotos · <i>3 meses de duración</i></summary>
@@ -1975,6 +2111,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e010-p004-t001-es"></a>
+
 <details>
 <summary><b>E010 - P004 - T001</b> · Registro y Validación de Pilotos · <i>3 meses de duración</i></summary>
 
@@ -1996,8 +2134,12 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e009-p003-es"></a>
+
 ### E009 - P003 - Facturación y Comisiones Energéticas  
 <sub>sept. 2018 - jun. 2019 · IO Digital X</sub>
+
+<a id="e009-p003-t003-es"></a>
 
 <details>
 <summary><b>E009 - P003 - T003</b> · Métricas y Cuadros de Mando · <i>3 meses de duración</i></summary>
@@ -2020,6 +2162,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e009-p003-t002-es"></a>
+
 <details>
 <summary><b>E009 - P003 - T002</b> · Gestión de Facturación · <i>3 meses de duración</i></summary>
 
@@ -2040,6 +2184,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** JavaScript · Automatización de procesos · ASP.NET MVC · ASP.NET Web API · SQL · Desarrollo web · Desarrollo Full Stack · Gestión documental · React.js · C#
 
 </details>
+
+<a id="e009-p003-t001-es"></a>
 
 <details>
 <summary><b>E009 - P003 - T001</b> · Cálculo de Comisiones y Contratos · <i>4 meses de duración</i></summary>
@@ -2062,8 +2208,12 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e008-p002-es"></a>
+
 ### E008 - P002 - Gestión de Suelos Fotovoltaicos  
 <sub>feb. 2018 - sept. 2018 · INECO</sub>
+
+<a id="e008-p002-t003-es"></a>
 
 <details>
 <summary><b>E008 - P002 - T003</b> · Seguimiento de Instalaciones Fotovoltaicas · <i>3 meses de duración</i></summary>
@@ -2086,6 +2236,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e008-p002-t002-es"></a>
+
 <details>
 <summary><b>E008 - P002 - T002</b> · Gestión de Expedientes · <i>2 meses de duración</i></summary>
 
@@ -2106,6 +2258,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** JavaScript · Automatización de procesos · ASP.NET MVC · SQL · Desarrollo web · Desarrollo Full Stack · Gestión documental · React.js · Documentación técnica · C#
 
 </details>
+
+<a id="e008-p002-t001-es"></a>
 
 <details>
 <summary><b>E008 - P002 - T001</b> · Inventario de Terrenos · <i>3 meses de duración</i></summary>
@@ -2128,8 +2282,12 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e007-p001-es"></a>
+
 ### E007 - P001 - Monitorización Energética  
 <sub>mar. 2012 - ene. 2018 · GRUPO J2INGENIEROS</sub>
+
+<a id="e007-p001-t012-es"></a>
 
 <details>
 <summary><b>E007 - P001 - T012</b> · Optimización de Rendimiento · <i>5 meses de duración</i></summary>
@@ -2152,6 +2310,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e007-p001-t011-es"></a>
+
 <details>
 <summary><b>E007 - P001 - T011</b> · Sistema de Alertas Energéticas · <i>7 meses de duración</i></summary>
 
@@ -2172,6 +2332,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** JavaScript · Automatización de procesos · ASP.NET MVC · SQL · Desarrollo web · Desarrollo Full Stack · Modelado de datos · C#
 
 </details>
+
+<a id="e007-p001-t010-es"></a>
 
 <details>
 <summary><b>E007 - P001 - T010</b> · Cuadros de Mando Energéticos · <i>5 meses de duración</i></summary>
@@ -2194,6 +2356,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e007-p001-t009-es"></a>
+
 <details>
 <summary><b>E007 - P001 - T009</b> · Informes Históricos de Consumo · <i>6 meses de duración</i></summary>
 
@@ -2214,6 +2378,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** JavaScript · Automatización de procesos · ASP.NET MVC · SQL · Desarrollo web · Desarrollo Full Stack · Gestión documental · C#
 
 </details>
+
+<a id="e007-p001-t008-es"></a>
 
 <details>
 <summary><b>E007 - P001 - T008</b> · Gestión Avanzada de Contadores · <i>7 meses de duración</i></summary>
@@ -2236,6 +2402,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e007-p001-t007-es"></a>
+
 <details>
 <summary><b>E007 - P001 - T007</b> · Sincronización de Datos mediante AJAX · <i>5 meses de duración</i></summary>
 
@@ -2256,6 +2424,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** JavaScript · Automatización de procesos · ASP.NET MVC · SQL · Desarrollo web · AJAX · Desarrollo Full Stack · Desarrollo Front-End · C#
 
 </details>
+
+<a id="e007-p001-t006-es"></a>
 
 <details>
 <summary><b>E007 - P001 - T006</b> · Supervisión de Parámetros Eléctricos · <i>6 meses de duración</i></summary>
@@ -2278,6 +2448,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e007-p001-t005-es"></a>
+
 <details>
 <summary><b>E007 - P001 - T005</b> · Análisis de Consumos · <i>7 meses de duración</i></summary>
 
@@ -2298,6 +2470,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** Desarrollo de base de datos · Automatización de procesos · ASP.NET MVC · SQL · Desarrollo web · Desarrollo Full Stack · Modelado de datos · C#
 
 </details>
+
+<a id="e007-p001-t004-es"></a>
 
 <details>
 <summary><b>E007 - P001 - T004</b> · Visualización en Tiempo Real · <i>5 meses de duración</i></summary>
@@ -2320,6 +2494,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e007-p001-t003-es"></a>
+
 <details>
 <summary><b>E007 - P001 - T003</b> · Gestión de Circuitos Eléctricos · <i>6 meses de duración</i></summary>
 
@@ -2341,6 +2517,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 
 </details>
 
+<a id="e007-p001-t002-es"></a>
+
 <details>
 <summary><b>E007 - P001 - T002</b> · Captura de Datos Energéticos · <i>7 meses de duración</i></summary>
 
@@ -2361,6 +2539,8 @@ Dentro de IBERDROLA, en el departamento de subestaciones eléctricas, realicé l
 **Aptitudes:** JavaScript · ASP.NET MVC · SQL · Desarrollo web · Ingeniería de Sistemas de Software · Desarrollo Full Stack · Modelado de datos · C#
 
 </details>
+
+<a id="e007-p001-t001-es"></a>
 
 <details>
 <summary><b>E007 - P001 - T001</b> · Arquitectura Inicial Plataforma · <i>5 meses de duración</i></summary>
