@@ -63,7 +63,7 @@ Specialized in .NET, C#, React, TypeScript, SQL, MongoDB and modern Full Stack a
 | **Nationality** | Spanish |
 | **Resident in** | Toledo, Spain (Europe) |
 | **Complete CV** | [https://iamjosepunto.github.io](https://iamjosepunto.github.io/) |
-| **Summary CV** | Go to Downloads |
+| **Summary CV** | [Go to Downloads](#downloads-en) |
 | **Contact method** | Preferably by email |
 | **Availability** | Employed, open to a change |
 | **Desired work mode** | Remote or hybrid |
@@ -1630,7 +1630,7 @@ iamjosepunto@gmail.com
 | **Nacionalidad** | Española |
 | **Residente en** | Toledo, España (Europa) |
 | **CV completo** | [https://iamjosepunto.github.io](https://iamjosepunto.github.io/) |
-| **CV resumido** | Ir a Descargas |
+| **CV resumido** | [Ir a Descargas](#descargas-es) |
 | **Método de contacto** | Preferiblemente por email |
 | **Disponibilidad** | Trabajando, abierto a un cambio |
 | **Modo de trabajo deseado** | Teletrabajo o híbrido |
