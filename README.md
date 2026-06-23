@@ -1500,6 +1500,7 @@ The solution provided a robust technological foundation for the platform's growt
 - *DevOps & CI/CD:* GitHub Actions `[A]`, PowerShell7 `[A]`
 - *Repositories:* GitHub `[A]`
 - *Unit Tests:* xUnit.net v3 `[M]`
+
 **💾 DATA BASEs**
 
 - *SQL:* MySQL `[A]`, MariaDB `[A]`, PostgreSQL `[B]`
@@ -1510,6 +1511,7 @@ The solution provided a robust technological foundation for the platform's growt
 
 `[A]` Advanced level · `[M]` Medium level · `[B]` Basic level
 
+
 **🌐 WEB**
 
 - *JavaScript Frameworks & Libraries:* React (18+) `[A]`, Vite `[A]`, TypeScript (5.7) `[A]`, jQuery (3.x) `[A]`
@@ -1519,6 +1521,7 @@ The solution provided a robust technological foundation for the platform's growt
 - *Static content:* HTML5 `[A]`
 - *Styles:* CSS3 `[A]`, Bootstrap 5 `[A]`, Tailwind CSS `[A]`
 - *WAF | CDN | DDoS:* CloudFlare `[A]`
+
 **🤖 ANDROID**
 
 - Unity 6 (native) `[A]`, Android Studio `[M]`
@@ -1549,7 +1552,7 @@ The solution provided a robust technological foundation for the platform's growt
 ## ⬇️ Downloads
 Click this button to download my bilingual summary curriculum.
 
-[![Download Bilingual summary curriculum (English-Spanish)](https://img.shields.io/badge/⬇️ Download%20Bilingual%20summary%20curriculum%20(English--Spanish)-FACC15?style=for-the-badge)](https://iamjosepunto.github.io/Summary_CV_Jose%20._June_2026_En-Es.pdf)
+[![Download Bilingual summary curriculum (English-Spanish)](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Download_Bilingual_summary_curriculum_%28English--Spanish%29-FACC15?style=for-the-badge)](https://iamjosepunto.github.io/Summary_CV_Jose%20._June_2026_En-Es.pdf)
 
 ---
 <a id="location-en"></a>
@@ -3053,6 +3056,7 @@ La solución proporcionó una base tecnológica robusta para el crecimiento de l
 - *DevOps y CI/CD:* GitHub Actions `[A]`, PowerShell7 `[A]`
 - *Repositorios:* GitHub `[A]`
 - *Pruebas Unitarias:* xUnit.net v3 `[M]`
+
 **💾 BASES DE DATOS**
 
 - *SQL:* MySQL `[A]`, MariaDB `[A]`, PostgreSQL `[B]`
@@ -3063,6 +3067,7 @@ La solución proporcionó una base tecnológica robusta para el crecimiento de l
 
 `[A]` Nivel avanzado · `[M]` Nivel medio · `[B]` Nivel básico
 
+
 **🌐 WEB**
 
 - *JavaScript Frameworks y Librerías:* React (18+) `[A]`, Vite `[A]`, TypeScript (5.7) `[A]`, jQuery (3.x) `[A]`
@@ -3072,6 +3077,7 @@ La solución proporcionó una base tecnológica robusta para el crecimiento de l
 - *Contenido Estático:* HTML5 `[A]`
 - *Estilos:* CSS3 `[A]`, Bootstrap 5 `[A]`, Tailwind CSS `[A]`
 - *WAF | CDN | DDoS:* CloudFlare `[A]`
+
 **🤖 ANDROID**
 
 - Unity 6 (native) `[A]`, Android Studio `[M]`
@@ -3102,7 +3108,7 @@ La solución proporcionó una base tecnológica robusta para el crecimiento de l
 ## ⬇️ Descargas
 Pulsa este botón para descargar mi currículum resumido y bilingüe.
 
-[![Descargar currículum resumido bilingüe (Inglés-Español)](https://img.shields.io/badge/⬇️ Descargar%20currículum%20resumido%20bilingüe%20(Inglés--Español)-FACC15?style=for-the-badge)](https://iamjosepunto.github.io/Summary_CV_Jose%20._June_2026_En-Es.pdf)
+[![Descargar currículum resumido bilingüe (Inglés-Español)](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_Descargar_curr%C3%ADculum_resumido_biling%C3%BCe_%28Ingl%C3%A9s--Espa%C3%B1ol%29-FACC15?style=for-the-badge)](https://iamjosepunto.github.io/Summary_CV_Jose%20._June_2026_En-Es.pdf)
 
 ---
 <a id="ubicación-es"></a>
