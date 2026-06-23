@@ -33,7 +33,18 @@ Specialized in .NET, C#, React, TypeScript, SQL, MongoDB and modern Full Stack a
 # <img src="https://iamjosepunto.github.io/Bandera_En.jpg" height="22"> English
 
 ### Index
-[👋 About](#about-en) · [✅ Availability](#availability-en) · [🏢 Experience](#experience-en) · [🗂️ My projects - Portfolio](#my-projects---portfolio-en) · [🧑‍🎓 Education](#education-en) · [🌍 Languages](#languages-en) · [🛠️ Skills](#skills-en) · [🧪 Lab](#lab-en) · [⬇️ Downloads](#downloads-en) · [📍 Location](#location-en) · [📬 Contact](#contact-en)
+
+- [👋 About](#about-en)
+- [✅ Availability](#availability-en)
+- [🏢 Experience](#experience-en)
+- [🗂️ My projects - Portfolio](#my-projects---portfolio-en)
+- [🧑‍🎓 Education](#education-en)
+- [🌍 Languages](#languages-en)
+- [🛠️ Skills](#skills-en)
+- [🧪 Lab](#lab-en)
+- [⬇️ Downloads](#downloads-en)
+- [📍 Location](#location-en)
+- [📬 Contact](#contact-en)
 
 ---
 <a id="about-en"></a>
@@ -1589,7 +1600,18 @@ iamjosepunto@gmail.com
 # <img src="https://iamjosepunto.github.io/Bandera_Es.jpg" height="22"> Español
 
 ### Índice
-[👋 Acerca de](#acerca-de-es) · [✅ Disponibilidad](#disponibilidad-es) · [🏢 Experiencia](#experiencia-es) · [🗂️ Mis proyectos - Portfolio](#mis-proyectos---portfolio-es) · [🧑‍🎓 Educación](#educación-es) · [🌍 Idiomas](#idiomas-es) · [🛠️ Habilidades](#habilidades-es) · [🧪 Laboratorio](#laboratorio-es) · [⬇️ Descargas](#descargas-es) · [📍 Ubicación](#ubicación-es) · [📬 Contacto](#contacto-es)
+
+- [👋 Acerca de](#acerca-de-es)
+- [✅ Disponibilidad](#disponibilidad-es)
+- [🏢 Experiencia](#experiencia-es)
+- [🗂️ Mis proyectos - Portfolio](#mis-proyectos---portfolio-es)
+- [🧑‍🎓 Educación](#educación-es)
+- [🌍 Idiomas](#idiomas-es)
+- [🛠️ Habilidades](#habilidades-es)
+- [🧪 Laboratorio](#laboratorio-es)
+- [⬇️ Descargas](#descargas-es)
+- [📍 Ubicación](#ubicación-es)
+- [📬 Contacto](#contacto-es)
 
 ---
 <a id="acerca-de-es"></a>
