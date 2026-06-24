@@ -1585,11 +1585,33 @@ Let's talk? You can reach me through these channels.
 iamjosepunto@gmail.com
 ```
 
+**Social networks**
+
 | | |
 |---|---|
 | **LinkedIn** | [linkedin.com/in/iamjosepunto](https://linkedin.com/in/iamjosepunto) |
+
+**Source code repositories**
+
+| | |
+|---|---|
 | **GitHub** | [github.com/iamjosepunto](https://github.com/iamjosepunto) |
-| **Portfolio** | [iamjosepunto.github.io](https://iamjosepunto.github.io/) |
+| **GitLab** | [gitlab.com/iamjosepunto/iamjosepunto](https://gitlab.com/iamjosepunto/iamjosepunto) |
+
+**Developer communities**
+
+| | |
+|---|---|
+| **DEV.to** | [dev.to/iamjosepunto](https://dev.to/iamjosepunto) |
+| **Stack Overflow** | [stackoverflow.com/users/32871984/iamjosepunto](https://stackoverflow.com/users/32871984/iamjosepunto) |
+| **CodePen** | [codepen.io/iamjosepunto](https://codepen.io/iamjosepunto) |
+
+**Public profiles**
+
+| | |
+|---|---|
+| **WellFound** | [wellfound.com/u/iamjosepunto](https://wellfound.com/u/iamjosepunto) |
+| **Arc.dev** | [arc.dev/@iamjosepunto](https://arc.dev/@iamjosepunto) |
 
 
 
@@ -3152,8 +3174,30 @@ Vivo en Toledo capital (España-Europa), una de las ciudades medievales más bon
 iamjosepunto@gmail.com
 ```
 
+**Redes sociales**
+
 | | |
 |---|---|
 | **LinkedIn** | [linkedin.com/in/iamjosepunto](https://linkedin.com/in/iamjosepunto) |
+
+**Repositorios de código fuente**
+
+| | |
+|---|---|
 | **GitHub** | [github.com/iamjosepunto](https://github.com/iamjosepunto) |
-| **Portfolio** | [iamjosepunto.github.io](https://iamjosepunto.github.io/) |
+| **GitLab** | [gitlab.com/iamjosepunto/iamjosepunto](https://gitlab.com/iamjosepunto/iamjosepunto) |
+
+**Comunidades de desarrolladores**
+
+| | |
+|---|---|
+| **DEV.to** | [dev.to/iamjosepunto](https://dev.to/iamjosepunto) |
+| **Stack Overflow** | [stackoverflow.com/users/32871984/iamjosepunto](https://stackoverflow.com/users/32871984/iamjosepunto) |
+| **CodePen** | [codepen.io/iamjosepunto](https://codepen.io/iamjosepunto) |
+
+**Perfiles públicos**
+
+| | |
+|---|---|
+| **WellFound** | [wellfound.com/u/iamjosepunto](https://wellfound.com/u/iamjosepunto) |
+| **Arc.dev** | [arc.dev/@iamjosepunto](https://arc.dev/@iamjosepunto) |
