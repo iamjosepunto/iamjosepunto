@@ -1606,7 +1606,7 @@ iamjosepunto@gmail.com
 | **Stack Overflow** | [stackoverflow.com/users/32871984/iamjosepunto](https://stackoverflow.com/users/32871984/iamjosepunto) |
 | **CodePen** | [codepen.io/iamjosepunto](https://codepen.io/iamjosepunto) |
 
-**Public profiles**
+**Public profiles - Tech only**
 
 | | |
 |---|---|
@@ -3195,7 +3195,7 @@ iamjosepunto@gmail.com
 | **Stack Overflow** | [stackoverflow.com/users/32871984/iamjosepunto](https://stackoverflow.com/users/32871984/iamjosepunto) |
 | **CodePen** | [codepen.io/iamjosepunto](https://codepen.io/iamjosepunto) |
 
-**Perfiles públicos**
+**Perfiles públicos - Sólo tecnología**
 
 | | |
 |---|---|
