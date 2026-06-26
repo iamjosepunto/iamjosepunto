@@ -64,7 +64,7 @@ Specialized in .NET, C#, React, TypeScript, SQL, MongoDB and modern Full Stack a
 | **Resident in** | Toledo, Spain (Europe) |
 | **Complete CV** | [https://iamjosepunto.github.io](https://iamjosepunto.github.io/) |
 | **Summary CV** | [Go to Downloads](#downloads-en) |
-| **Contact method** | Preferably by email |
+| **Preferred contact method** | Preferably by email |
 | **Availability** | Employed, open to a change |
 | **Desired work mode** | Remote or hybrid |
 
@@ -1577,7 +1577,7 @@ I live in the city of Toledo (Spain-Europe), one of the most beautiful and touri
 ## 📬 Contact
 Let's talk? You can reach me through these channels.
 
-*Contact method - Preferably by email*
+*Preferred contact method - Preferably by email*
 
 **Email:**
 
@@ -1597,21 +1597,78 @@ iamjosepunto@gmail.com
 |---|---|
 | **GitHub** | [github.com/iamjosepunto](https://github.com/iamjosepunto) |
 | **GitLab** | [gitlab.com/iamjosepunto/iamjosepunto](https://gitlab.com/iamjosepunto/iamjosepunto) |
+| **Bitbucket** | _(pending)_ |
+| **SourceForge** | _(pending)_ |
+| **Codeberg** | _(pending)_ |
 
 **Developer communities**
+
+_Blogging / Articles_
 
 | | |
 |---|---|
 | **DEV.to** | [dev.to/iamjosepunto](https://dev.to/iamjosepunto) |
+| **Hashnode** | _(pending)_ |
+| **Medium** | _(pending)_ |
+
+_Q&A (Questions & Answers)_
+
+| | |
+|---|---|
 | **Stack Overflow** | [stackoverflow.com/users/32871984/iamjosepunto](https://stackoverflow.com/users/32871984/iamjosepunto) |
+| **Quora** | _(pending)_ |
+
+_Forums / Discussion_
+
+| | |
+|---|---|
+| **Hacker News** | _(pending)_ |
+| **Reddit** | _(pending)_ |
+
+_Code playgrounds / Practice_
+
+| | |
+|---|---|
 | **CodePen** | [codepen.io/iamjosepunto](https://codepen.io/iamjosepunto) |
+| **Replit** | _(pending)_ |
+| **freeCodeCamp** | _(pending)_ |
+
+_Design / UI_
+
+| | |
+|---|---|
+| **Dribbble** | _(pending)_ |
 
 **Public profiles - Tech only**
+
+_Tech job boards_
 
 | | |
 |---|---|
 | **WellFound** | [wellfound.com/u/iamjosepunto](https://wellfound.com/u/iamjosepunto) |
 | **Arc.dev** | [arc.dev/@iamjosepunto](https://arc.dev/@iamjosepunto) |
+
+_Portfolio / Projects_
+
+| | |
+|---|---|
+| **Devpost** | _(pending)_ |
+| **Product Hunt** | _(pending)_ |
+| **Behance** | _(pending)_ |
+
+_Professional track record_
+
+| | |
+|---|---|
+| **Polywork** | _(pending)_ |
+
+_Identity / Aggregators_
+
+| | |
+|---|---|
+| **Gravatar** | _(pending)_ |
+| **about.me** | _(pending)_ |
+| **Linktree** | _(pending)_ |
 
 
 
@@ -1653,7 +1710,7 @@ iamjosepunto@gmail.com
 | **Residente en** | Toledo, España (Europa) |
 | **CV completo** | [https://iamjosepunto.github.io](https://iamjosepunto.github.io/) |
 | **CV resumido** | [Ir a Descargas](#descargas-es) |
-| **Método de contacto** | Preferiblemente por email |
+| **Método de contacto deseado** | Preferiblemente por email |
 | **Disponibilidad** | Trabajando, abierto a un cambio |
 | **Modo de trabajo deseado** | Teletrabajo o híbrido |
 
@@ -3166,7 +3223,7 @@ Vivo en Toledo capital (España-Europa), una de las ciudades medievales más bon
 ## 📬 Contacto
 ¿Hablamos? Puedes contactarme a través de estos canales.
 
-*Método de contacto - Preferiblemente por email*
+*Método de contacto deseado - Preferiblemente por email*
 
 **Email:**
 
@@ -3186,18 +3243,75 @@ iamjosepunto@gmail.com
 |---|---|
 | **GitHub** | [github.com/iamjosepunto](https://github.com/iamjosepunto) |
 | **GitLab** | [gitlab.com/iamjosepunto/iamjosepunto](https://gitlab.com/iamjosepunto/iamjosepunto) |
+| **Bitbucket** | _(pendiente)_ |
+| **SourceForge** | _(pendiente)_ |
+| **Codeberg** | _(pendiente)_ |
 
 **Comunidades de desarrolladores**
+
+_Blogging / Artículos_
 
 | | |
 |---|---|
 | **DEV.to** | [dev.to/iamjosepunto](https://dev.to/iamjosepunto) |
+| **Hashnode** | _(pendiente)_ |
+| **Medium** | _(pendiente)_ |
+
+_Q&A (Preguntas y Respuestas)_
+
+| | |
+|---|---|
 | **Stack Overflow** | [stackoverflow.com/users/32871984/iamjosepunto](https://stackoverflow.com/users/32871984/iamjosepunto) |
+| **Quora** | _(pendiente)_ |
+
+_Foros / Discusión_
+
+| | |
+|---|---|
+| **Hacker News** | _(pendiente)_ |
+| **Reddit** | _(pendiente)_ |
+
+_Code playgrounds / Práctica_
+
+| | |
+|---|---|
 | **CodePen** | [codepen.io/iamjosepunto](https://codepen.io/iamjosepunto) |
+| **Replit** | _(pendiente)_ |
+| **freeCodeCamp** | _(pendiente)_ |
+
+_Diseño / UI_
+
+| | |
+|---|---|
+| **Dribbble** | _(pendiente)_ |
 
 **Perfiles públicos - Sólo tecnología**
+
+_Portales de empleo tech_
 
 | | |
 |---|---|
 | **WellFound** | [wellfound.com/u/iamjosepunto](https://wellfound.com/u/iamjosepunto) |
 | **Arc.dev** | [arc.dev/@iamjosepunto](https://arc.dev/@iamjosepunto) |
+
+_Portfolio / Proyectos_
+
+| | |
+|---|---|
+| **Devpost** | _(pendiente)_ |
+| **Product Hunt** | _(pendiente)_ |
+| **Behance** | _(pendiente)_ |
+
+_Trayectoria profesional_
+
+| | |
+|---|---|
+| **Polywork** | _(pendiente)_ |
+
+_Identidad / Agregadores_
+
+| | |
+|---|---|
+| **Gravatar** | _(pendiente)_ |
+| **about.me** | _(pendiente)_ |
+| **Linktree** | _(pendiente)_ |
